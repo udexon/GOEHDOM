@@ -33,7 +33,7 @@ We believe the above is a concise and well defined method to measure the timelin
 
 ### Goal Oriented Open Ended Homoiconic Document Model
 
-Suppose OEHDOM is used to maintain Github or other free software repositories.
+Suppose [OEHDOM](https://github.com/udexon/Shumage/blob/master/OEHDOM_eng.md) is used to maintain Github or other free software repositories.
 
 What drives a programmer's motivations behind his (her) changes to a software repository?
 

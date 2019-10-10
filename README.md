@@ -1,5 +1,6 @@
 # GOEHDOM
-Goal Oriented Open Ended Homoiconic Document Model
+
+### Goal Oriented Open Ended Homoiconic Document Model
 
 Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
 

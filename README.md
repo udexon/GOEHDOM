@@ -8,9 +8,11 @@
 
 We believe this concise and well defined question encapsulates the roadmap towards achieving human level artificial intelligence.
 
-We invite readers to consider this possibility:
+
 
 ### Automated Maintenance of Free Software Repositories as Measurement of Timeline Towards Technological Singularity (AMFSRTS, pronounced "AM-first")
+
+We invite readers to consider the following scenario:
 
 1. The number of programmers involved in improving code in GitHub or other free software repositories is huge.
 

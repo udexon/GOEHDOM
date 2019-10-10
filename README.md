@@ -18,7 +18,7 @@ We invite readers to consider this possibility:
 
 2. The collective complexity of the code in the published free software repositories is beyond the comprehension of any single human programmer.
 
-3. Despite the above, changes to any existing code repository is being done one line at a time.
+3. Despite the above, changes to any existing code repository are being done one line at a time.
 
 4. What if we conceive a model to represent step 3?
 

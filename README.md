@@ -20,7 +20,7 @@ We invite readers to consider the following scenario:
 
 3. Despite the above, changes to any existing code repository are being done one line at a time.
 
-4. What if we conceive a model to represent step 3?
+4. What if we conceive a model to represent step 3? (See OEHDOM below.)
 
 5. If successful, step 4 would eventually increase the automation level improving code repositories.
 
@@ -40,7 +40,11 @@ https://github.com/udexon/Shumage/blob/master/README.md
 
 ### Goal Oriented Open Ended Homoiconic Document Model
 
-Goal Oriented Open Ended Homoiconic Document Model (GOEHDOM) (think "Gotham city" in Batman)
+Suppose OEHDOM is used to maintain Github or other free software repositories.
+
+What drives a programmer's motivations behind his (her) changes to a software repository?
+
+We simulate this situation using Goal Oriented Open Ended Homoiconic Document Model (GOEHDOM) (think "Gotham city" in Batman).
 
 War games provide us the goals for GOEHDOM (think "Gotham city" in Batman). 
 

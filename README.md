@@ -2,13 +2,14 @@
 
 ### Goal Oriented Open Ended Homoiconic Document Model
 
-Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
+-- A Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
 
-Goal Oriented Open Ended Homoiconic Document Model (GOEHDOM) (think "Gotham city" in Batman)
+
+### Automated Maintenance of War Games
 
 -- How may we automate the improvement of war games?
 
-We believe this concise and well defined question encapsulate the roadmap towards achieving human level artificial intelligence.
+We believe this concise and well defined question encapsulates the roadmap towards achieving human level artificial intelligence.
 
 We invite readers to consider this possibility:
 
@@ -27,6 +28,15 @@ We invite readers to consider this possibility:
 6. We may measure the speed at which the automation grows and predict the point of technological singularity, where automation exceeds collective human effort.
 
 We believe the above is a concise and well defined method to measure the timeline towards technological singularity, based on automation of improvement on free software repositories.
+
+
+### Open Ended Homoiconic Document Model
+
+
+### Goal Oriented Open Ended Homoiconic Document Model
+
+Goal Oriented Open Ended Homoiconic Document Model (GOEHDOM) (think "Gotham city" in Batman)
+
 
 War games provide us the goals for GOEHDOM (think "Gotham city" in Batman). 
 

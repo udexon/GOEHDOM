@@ -32,6 +32,8 @@ We believe the above is a concise and well defined method to measure the timelin
 
 ### Open Ended Homoiconic Document Model
 
+https://github.com/udexon/Shumage/blob/master/OEHDOM_eng.md
+
 https://github.com/udexon/Shumage/blob/master/Metaprogramming.md
 
 https://github.com/udexon/Shumage/blob/master/README.md

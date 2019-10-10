@@ -20,7 +20,7 @@ We invite readers to consider the following scenario:
 
 3. Despite the above, changes to any existing code repository are being done one line at a time.
 
-4. What if we conceive a model to represent step 3? (See OEHDOM below.)
+4. What if we conceive a model to represent step 3? (See [Open Ended Homoiconic Document Model (OEHDOM)](https://github.com/udexon/Shumage/blob/master/OEHDOM_eng.md).)
 
 5. If successful, step 4 would eventually increase the automation level improving code repositories.
 
@@ -29,13 +29,6 @@ We invite readers to consider the following scenario:
 We believe the above is a concise and well defined method to measure the timeline towards technological singularity, based on automation of improvement on free software repositories.
 
 
-### Open Ended Homoiconic Document Model
-
-https://github.com/udexon/Shumage/blob/master/OEHDOM_eng.md
-
-https://github.com/udexon/Shumage/blob/master/Metaprogramming.md
-
-https://github.com/udexon/Shumage/blob/master/README.md
 
 
 ### Goal Oriented Open Ended Homoiconic Document Model
@@ -72,6 +65,7 @@ War games? 
 How do we automate improvement of war games?
 
 :: The above encapsulate the roadmap towards human level artificial intelligence. 
+
 We do not need to start from scratch. We just need GOEHDOM.
 
 
@@ -191,3 +185,9 @@ https://en.wikipedia.org/wiki/Let_there_be_light
 我不是基督教徒， 引用圣经， 目的是 ”以夷制夷“， 让国人理解西方文明的根源与弊病。
 
 万： 道生一 三生万物 
+
+### Open Ended Homoiconic Document Model
+
+https://github.com/udexon/Shumage/blob/master/Metaprogramming.md
+
+https://github.com/udexon/Shumage/blob/master/README.md

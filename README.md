@@ -1,8 +1,5 @@
 # GOEHDOM
 
-### Goal Oriented Open Ended Homoiconic Document Model
-
--- A Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
 
 
 ### Automated Maintenance of War Games
@@ -43,8 +40,13 @@ https://github.com/udexon/Shumage/blob/master/README.md
 
 Goal Oriented Open Ended Homoiconic Document Model (GOEHDOM) (think "Gotham city" in Batman)
 
-
 War games provide us the goals for GOEHDOM (think "Gotham city" in Batman). 
+
+
+### Goal Oriented Open Ended Homoiconic Document Model
+
+-- A Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
+
 
 
 Of the many challenges facing artificial intelligence research, theorem proving and incremental construction of program code stand the best chance of  providing a tractable road map towards the final goal of human level artificial intelligence.

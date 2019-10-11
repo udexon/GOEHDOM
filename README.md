@@ -3,7 +3,7 @@
 ### GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
 
 
-### Automated Maintenance of War Games
+### 1 Automated Maintenance of War Games
 
 -- How may we automate the improvement of war games?
 
@@ -11,7 +11,7 @@ We believe this concise and well defined question encapsulates the roadmap towar
 
 
 
-### Automated Maintenance of Free Software Repositories as Measurement of Timeline Towards Technological Singularity (AMFSRTS, pronounced "AM-first")
+#### Automated Maintenance of Free Software Repositories as Measurement of Timeline Towards Technological Singularity (AMFSRTS, pronounced "AM-first")
 
 We invite readers to consider the following scenario:
 

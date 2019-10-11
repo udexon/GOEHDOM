@@ -42,11 +42,30 @@ We simulate this situation using Goal Oriented Open Ended Homoiconic Document Mo
 War games provide us the goals for GOEHDOM (think "Gotham city" in Batman). 
 
 
+
+### GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
+
+Missing pieces from now to make OEHDOM usable
+
+From this example to war games
+
+We may consider patch as the most primitive form of metaprogramming.
+
+Examples below illustrate more advanced metaprogramming.
+
+War games would be the ultimate form of metaprogramming.
+
+Before human or program finds an answer, he or it creates questions first. Questions can be hierarchical, including metaprogramming questions like above. Phos provide the framework to construct the hierarchy of questions and search for answers, low level to high level data structure, code, across all programming languages. 
+
+All Phos code written by individual programmers can be easily integrated, retrieved and reused by others. 
+
+Time from now to Technological singularity, time to build 100k Phos function for self question answering?
+
+
+
 ### Goal Oriented Open Ended Homoiconic Document Model
 
 -- A Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
-
-
 
 Of the many challenges facing artificial intelligence research, theorem proving and incremental construction of program code stand the best chance of  providing a tractable road map towards the final goal of human level artificial intelligence.
 

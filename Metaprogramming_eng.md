@@ -81,6 +81,8 @@ Delta code is the basis of fees pay out. Conflict with free software licenses? D
 Use Android project to illustrate. Gradle is based on groovy, a JVM derived Language. 
 
 
+### Roadmap towards Technological Singularity and Individual Programmer's Actions
+
 Programmers would code changes in existing programming languages. No metaprogramming. No reuse. No automation. Phos enables metaprogramming and automation, although need time to build up. But they are accumulative. 
 
 Need to find one or more open source war games to work on as examples?

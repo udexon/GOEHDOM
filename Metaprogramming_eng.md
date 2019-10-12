@@ -11,6 +11,25 @@ Homoiconicity and metaprogramming are two fields in computer programming that la
 Consider the following seemingly trivial example:
 
 
+echo 1
+
+echo 2
+
+sed -i 's/old-text/new-text/g' input.txt
+
+
+
+   程序员手动编辑， 后生成 patch 。 程序员手动编辑的思绪及过程， 用新弗式表现出来。 
+
+
+GitHub patch code is not full fledged programmable script. Phos is. 
+
+Phos command can be embedded as comments in any existing file or additional files in existing directory or a new subdirectory. Call it Delta code.
+
+Delta code is the basis of fees pay out. Conflict with free software licenses? Depends. Discuss several scenario.
+
+Use Android project to illustrate. Gradle is based on groovy, a JVM derived Language. 
+
 
 Programmers would code changes in existing programming languages. No metaprogramming. No reuse. No automation. Phos enables metaprogramming and automation, although need time to build up. But they are accumulative. 
 

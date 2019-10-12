@@ -62,6 +62,10 @@ All Phos code written by individual programmers can be easily integrated, retrie
 
 Time from now to Technological singularity, time to build 100k Phos function for self question answering?
 
+GOEHDOM practically encodes the behaviour and experience of an adult human programmers into an automated code writing system.
+
+Does it learn like human programmers? Does it mimick the learning phase of a human programmer while he (she) is young? Are these contents of simulation of a target GOEHDOM project?
+
 
 
 ### Goal Oriented Open Ended Homoiconic Document Model

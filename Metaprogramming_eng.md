@@ -1,5 +1,7 @@
 ## Homoiconicity and Metaprogramming
 
+### Metaprogramming Questions
+
 Homoiconicity and metaprogramming are two fields in computer programming that lack ... because of non existence of suitable notations and data structures for  representation and analysis. 
 
 :: Copy example of echo 1 echo 2
@@ -44,6 +46,8 @@ Easy to understand, lots of work to find solutions. 
 问题浅显易懂， 答案高深莫测。 新弗式是解答的工具。 
 
 其中一个最基本的问题， 就是如何用程序语言代表问题， 然后分析问题， 自动或半自动找出或运算出解方？ 新弗式皆可胜任。
+
+Having established the need for metaprogramming questions, we now consider how "homoiconic notation" may offer solutions.
 
 Question answering is a niche area in AI. Not sure the programming languages used by others can address metaprogramming issues?
 

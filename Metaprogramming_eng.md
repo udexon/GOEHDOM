@@ -10,27 +10,36 @@ Homoiconicity and metaprogramming are two fields in computer programming that la
 
 Consider the following seemingly trivial example:
 
+Program A: `echo 1;`
 
-Program A: echo 1
+Program B: `echo 2;`
 
-Program B: echo 2
+Programs A and B are both PHP programs or equivalent.
 
-sed -i 's/old-text/new-text/g' input.txt
+Consider the following `sed` command:
 
-Why 1 and 2? 
+Program C: `sed -i 's/old-text/new-text/g' input.txt`
 
-What about this?
+Now, a human programmer would easily understand that Program C can be used to transform Program A to Program B by subsituting the parameters:
 
-Program C: echo $1 
+Program C1: `sed -i 's/1/2/g' prog_a.php`
 
-Or
+But, as a human programmer, he (she) may ask:
+
+- Why 1 and 2? 
+
+- What about the following?
+
+Program D: `echo $argv[1];` 
+
+- Or
 
 ```
-If ... echo 1
-Else echo 2
+if (condition_1) echo 1;
+else echo 2
 ```
 
-Or just print for debug purposes? 
+A human programmer may have "reasons" or "motivations" to choose any of the above.
 
 Based on this simple example, we may ask the questions above. These questions concerning metaprogramming are easily understood. However, there has been no single comprehensive programming language that can be used to address these questions. 
 
@@ -59,6 +68,7 @@ Most programming assignments (academic or commercial) have limited set of goals.
 
    程序员手动编辑， 后生成 patch 。 程序员手动编辑的思绪及过程， 用新弗式表现出来。 
 
+Or just print for debug purposes? 
 
 GitHub patch code is not full fledged programmable script. Phos is. 
 

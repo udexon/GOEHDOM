@@ -2,6 +2,44 @@
 
 Open Ended Homoiconic Document Model and Metaprogramming
 
+:: Homoiconicity and Metaprogramming
+
+Homoiconicity and metaprogramming are two fields in computer programming that lack ... because of non existence of suitable notations and data structures for  representation and analysis. 
+
+:: Copy example of echo 1 echo 2
+
+Consider the following seemingly trivial example:
+
+
+
+Programmers would code changes in existing programming languages. No metaprogramming. No reuse. No automation. Phos enables metaprogramming and automation, although need time to build up. But they are accumulative. 
+
+Need to find one or more open source war games to work on as examples?
+
+https://github.com/topics/game
+
+Or start with any other projects, e.g. DJ mix app, since GOEHDOM should connect them together, like human programmers work together, although their programs are written in incompatible programming languages, human programmers are the translators of ideas between game or software projects. Hence GOEHDOM is equivalent to human programmers. GOEHDOM and human programmers have same input and output, ie. program source code. 
+
+
+Examples of Phos metaprogramming code and automation. Trivial example 1+ 2 = 3, write in Phos. 
+
+XRPN Phos should be flexible enough to represent and process any fundamental or composite structures, tests, metaprogramming code, etc, including this sentence itself, and create any new Programming Language or structures in new Programming Languages.
+
+Explain relationship of XRPN to LISP, HOL Light etc. XRPN acts as glue amongst different programming languages and their libraries, each has strengths in different areas? HOL Light for logic and math, C++ for ... , PHP for ...
+
+The above is perhaps the most important missing pieces in constructing human level artificial intelligence? Because human knowledge and thoughts are not restricted to one programming language? Or need one universal programming language to code everything from simple logic to complicated questions? 
+
+At every paragraph, throughout article, always think, how does current paragraph relate to subject of article? ie. How to achieve AI, current paragraph: fundamental mathematics with XRPN.
+
+Explain differences of RPN, XRPN. 
+
+War games repositories are written in many different programming languages. All can be coded in Phos. Changes are well documented. No need to go back in time, although possible. Once Phos function written, can go back in time to process them, to find patterns. 
+
+
+GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
+
+Before human or program finds an answer, he or it creates questions first. Questions can be hierarchical, including metaprogramming questions like above. Phos provide the framework to construct the hierarchy of questions and search for answers, low level to high level data structure, code, across all programming languages. 
+
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
 
 我们改动的文件， 主要是编程项目里调适及源码文件。 许多编程项目的文件， 其繁冗复杂程度， 例如安卓应用项目， 编程项目的文件， 早已发展到超越人手调置的限度。新的工具和程序语言被开发来处理现有的项目文件， 把总体结构和文件简化了吗？ 还是更加繁复？我们要 如何一劳永逸的解决这个问题？

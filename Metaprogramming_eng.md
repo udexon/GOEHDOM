@@ -1,8 +1,4 @@
-
-
-Open Ended Homoiconic Document Model and Metaprogramming
-
-:: Homoiconicity and Metaprogramming
+## Homoiconicity and Metaprogramming
 
 Homoiconicity and metaprogramming are two fields in computer programming that lack ... because of non existence of suitable notations and data structures for  representation and analysis. 
 
@@ -32,7 +28,7 @@ But, as a human programmer, he (she) may ask:
 
 Program D: `echo $argv[1];` 
 
-- Or
+- Or, Program E:
 
 ```
 if (condition_1) echo 1;

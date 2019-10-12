@@ -11,12 +11,50 @@ Homoiconicity and metaprogramming are two fields in computer programming that la
 Consider the following seemingly trivial example:
 
 
-echo 1
+Program A: echo 1
 
-echo 2
+Program B: echo 2
 
 sed -i 's/old-text/new-text/g' input.txt
 
+Why 1 and 2? 
+
+What about this?
+
+Program C: echo $1 
+
+Or
+
+```
+If ... echo 1
+Else echo 2
+```
+
+Or just print for debug purposes? 
+
+Based on this simple example, we may ask the questions above. These questions concerning metaprogramming are easily understood. However, there has been no single comprehensive programming language that can be used to address these questions. 
+
+Easy to understand, lots of work to find solutions. 
+
+问题浅显易懂， 答案高深莫测。 新弗式是解答的工具。 
+
+其中一个最基本的问题， 就是如何用程序语言代表问题， 然后分析问题， 自动或半自动找出或运算出解方？ 新弗式皆可胜任。
+
+Question answering is a niche area in AI. Not sure the programming languages used by others can address metaprogramming issues?
+
+It is easy for human beings to conceive questions. It is non trivial for programmers to find programming languages or data structures to represent questions. 
+
+Implement prolog in forth? 
+
+Fundamentally,  we may need to simulate the motivations of a programmer -- why is he writing a program? To survive, of course. Then we may need to simulate food, energy and defense, how he develop sense of survival since birth. 
+
+Goal based problems. Map. Path finding. Reverse kinematics etc. Generalized to all problems, including programming? Use Phos to prove. 
+
+Theories or models similar to this might have been proposed elsewhere, however, our novelty is Phos, a homoiconic multi level programming language that can used to prove and implement such model step by step. 
+
+Goal oriented homoiconic model for artificial intelligence
+
+Most programming assignments (academic or commercial) have limited set of goals. The  Programmer's task is to find sets of combination of functions to map input to output, consistent with graph theory. 
 
 
    程序员手动编辑， 后生成 patch 。 程序员手动编辑的思绪及过程， 用新弗式表现出来。 

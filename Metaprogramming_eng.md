@@ -2,6 +2,10 @@
 
 ### Metaprogramming Questions
 
+[Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)：
+
+- is a programming technique in which computer programs have the ability to treat other programs as their data. It means that a program can be designed to read, generate, analyze or transform other programs, and even modify itself while running.
+
 Homoiconicity and metaprogramming are two fields in computer programming that lack ... because of non existence of suitable notations and data structures for  representation and analysis. 
 
 :: Copy example of echo 1 echo 2

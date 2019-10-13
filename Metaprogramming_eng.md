@@ -83,7 +83,26 @@ Use Android project to illustrate. Gradle is based on groovy, a JVM derived Lang
 
 ### Roadmap towards Technological Singularity and Individual Programmer's Actions
 
+#### Benefits of Learning Phos
+
+Programmers who learn Phos will learn about most fundamental concepts in programming and mathematics 
+
 Programmers would code changes in existing programming languages. No metaprogramming. No reuse. No automation. Phos enables metaprogramming and automation, although need time to build up. But they are accumulative. 
+
+#### Learning Curve for Learning Phos
+
+Number of programmers picking up GOEHDOM in 1, 2, 5 year's?
+
+It is possible that human programmers write enough code to achieve technological singularity without self modifying homoiconic code? 
+Lack of new ideas in recent years is evidence to the above?
+
+Derivative Homoiconicity? Which programming language homoiconicity is not derivative? Use Phos to analyze this issue. Let others do it. Beyond scope for now. Good to define question.
+
+By definition, we do not know how much homoiconic code will be needed to achieve human level artificial intelligence. However, through trials, when we have 100 or 1000 Phos code example, we may begin to find a pattern, just like any scientific experiment. 
+
+
+
+
 
 Need to find one or more open source war games to work on as examples?
 

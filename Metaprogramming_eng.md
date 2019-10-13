@@ -3,14 +3,11 @@
 :: table of contents at top of page, replace `###` with `-`
 
 - Metaprogramming Questions
-
 - Roadmap towards Technological Singularity and Individual Programmer's Actions
-
 - Benefits of Learning Phos
-
 - Learning Curve for Learning Phos
-
 - Control Experiment
+- Automation on free software repositories exceeds human effort.
 
 ### Metaprogramming Questions
 
@@ -151,6 +148,33 @@ War games repositories are written in many different programming languages. All 
 GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
 
 Before human or program finds an answer, he or it creates questions first. Questions can be hierarchical, including metaprogramming questions like above. Phos provide the framework to construct the hierarchy of questions and search for answers, low level to high level data structure, code, across all programming languages. 
+
+
+#### Automation on free software repositories exceeds human effort.
+
+:: Repeat emphasize the above
+
+Emphasize Phos OEHDOM can be implemented in any host programming language. Need to differentiate Phos and OEHDOM?
+
+Differentiate Phos, OEHDOM, GOEHDOM?? 
+
+In the brief presentation above, we introduced Phos, OEHDOM, GOEHDOM.
+
+Phos is name given to XRPN ...
+
+OEHDOM is ....
+
+GOEHDOM is ....
+
+What can programmers do about them?
+
+All war games development go through phases. Build up community, increase coders, mature, mutate or coders move on. Phos can maximize portability. Then build up metaprogramming questions and answers database, until it becomes self complete. ?? 
+
+Present realities; What can be done? What are the goals, when to achieve? 
+
+
+
+
 
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
 

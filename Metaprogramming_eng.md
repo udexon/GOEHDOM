@@ -3,6 +3,7 @@
 :: table of contents at top of page, replace `###` with `-`
 
 - Metaprogramming Questions
+- Universal Homoiconicity
 - Roadmap towards Technological Singularity and Individual Programmer's Actions
 - Benefits of Learning Phos
 - Learning Curve for Learning Phos
@@ -91,7 +92,11 @@ Use Android project to illustrate. Gradle is based on groovy, a JVM derived Lang
 
 
 
+#### Universal Homoiconicity
 
+Universal: across programming languages.
+
+Before human or program finds an answer, he or it creates questions first. Questions can be hierarchical, including metaprogramming questions like above. Phos provide the framework to construct the hierarchy of questions and search for answers, low level to high level data structure, code, across all programming languages. 
 
 ### Roadmap towards Technological Singularity and Individual Programmer's Actions
 

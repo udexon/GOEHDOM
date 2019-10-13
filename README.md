@@ -3,7 +3,7 @@
 ### GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
 
 
-### 1 Automated Maintenance of War Games
+### 1. Automated Maintenance of War Games
 
 -- How may we automate the improvement of war games?
 
@@ -32,7 +32,7 @@ We believe the above is a concise and well defined method to measure the timelin
 
 
 
-### Goal Oriented Open Ended Homoiconic Document Model
+### 2. Goal Oriented Open Ended Homoiconic Document Model
 
 Suppose [OEHDOM](https://github.com/udexon/Shumage/blob/master/OEHDOM_eng.md) is used to maintain Github or other free software repositories.
 
@@ -44,7 +44,7 @@ War games provide us the goals for GOEHDOM (think "Gotham city" in Batman). 
 
 
 
-### GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
+#### GOEHDOM: A practical and measurable roadmap towards human level artificial intelligence
 
 Missing pieces from now to make OEHDOM usable
 
@@ -68,7 +68,7 @@ Does it learn like human programmers? Does it mimick the learning phase of a hum
 
 
 
-### Goal Oriented Open Ended Homoiconic Document Model
+#### Goal Oriented Open Ended Homoiconic Document Model
 
 -- A Goal oriented homoiconic model for artificial intelligence: Improving war games incrementally to achieve human level artificial intelligence
 

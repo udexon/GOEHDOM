@@ -1,5 +1,17 @@
 ## Homoiconicity and Metaprogramming
 
+:: table of contents at top of page, replace `###` with `-`
+
+- Metaprogramming Questions
+
+- Roadmap towards Technological Singularity and Individual Programmer's Actions
+
+- Benefits of Learning Phos
+
+- Learning Curve for Learning Phos
+
+- Control Experiment
+
 ### Metaprogramming Questions
 
 [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)：
@@ -81,6 +93,9 @@ Delta code is the basis of fees pay out. Conflict with free software licenses? D
 Use Android project to illustrate. Gradle is based on groovy, a JVM derived Language. 
 
 
+
+
+
 ### Roadmap towards Technological Singularity and Individual Programmer's Actions
 
 #### Benefits of Learning Phos
@@ -89,11 +104,17 @@ Programmers who learn Phos will learn about most fundamental concepts in program
 
 Programmers would code changes in existing programming languages. No metaprogramming. No reuse. No automation. Phos enables metaprogramming and automation, although need time to build up. But they are accumulative. 
 
+#### Control Experiment
+
+With or without GOEHDOM, what would happen to the world? What would the programmers do as usual? Learning curve for Phos?
+
+
 #### Learning Curve for Learning Phos
 
 Number of programmers picking up GOEHDOM in 1, 2, 5 year's?
 
 It is possible that human programmers write enough code to achieve technological singularity without self modifying homoiconic code? 
+
 Lack of new ideas in recent years is evidence to the above?
 
 Derivative Homoiconicity? Which programming language homoiconicity is not derivative? Use Phos to analyze this issue. Let others do it. Beyond scope for now. Good to define question.
@@ -103,6 +124,7 @@ By definition, we do not know how much homoiconic code will be needed to achieve
 
 
 
+#### Examples for GOEHDOM Projects
 
 Need to find one or more open source war games to work on as examples?
 

@@ -12,4 +12,7 @@ Phos RPN commands can be entered via the Developer Console as a space delimited 
 F("1 a tn: a a b tnn:")
 ```
 
+As with Forth, PMSM works on a simple algorithm as follows:
+
+- For each token, push token onto stack if token is not a function word (token), else execute the function mapped by the function word (token).
 

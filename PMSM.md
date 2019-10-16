@@ -38,6 +38,8 @@ function fgl_tn() // make tree node: value key tn:
 }
 ```
 
+`S` is a global variable that is used as the stack.
+
 `tnn:` is mapped to a JavaScript function `fgl_tnn()` defined as follow:
 
 ```javascript
@@ -52,6 +54,8 @@ function fgl_tnn() // input is node, copy node to node, preserve source node nam
     T[a] = A
 }
 ```
+
+`$` sign is actually part of variable ported from PHP. We shall explore in depth Phos implementation in PHP vs. JavaScript in another article.
 
 `td:` is mapped to a JavaScript function `fgl_td()` defined as follow:
 

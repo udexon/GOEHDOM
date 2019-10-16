@@ -25,4 +25,40 @@ For the example above,
 
 <img src="https://github.com/udexon/GOEHDOM/blob/master/phos.png" width="350" title="hover text">
 
-As shown in the screenshot above, the commands `F("1 a tn: a a b tnn:")` first create an object with key `a` and value `1` using `tn:`, then duplicate this object as an object with key `b` on the global tree `T`.
+As shown in the screenshot above, the commands `F("1 a tn: a a b tnn:")` first create an object with key `a` and value `1` using function word `tn:`, then duplicate this object as an object with key `b` on the global tree `T` using function word `tnn:`.
+
+`tn:` is mapped to a JavaScript function `fgl_tn()` defined as follow:
+
+```javascript
+function fgl_tn() // make tree node: value key tn:
+{
+    var a=S.pop()
+    var b=S.pop()
+    T[a] = b
+}
+```
+
+`tnn:` is mapped to a JavaScript function `fgl_tnn()` defined as follow:
+
+```javascript
+function fgl_tnn() // input is node, copy node to node, preserve source node name: source target  tnn:
+{
+    var a = S.pop();
+    var $F = S.pop();
+
+    var A = []
+    A[$F] = T[$F]
+
+    T[a] = A
+}
+```
+
+`td:` is mapped to a JavaScript function `fgl_td()` defined as follow:
+
+```javascript
+function fgl_td() // delete node: node td:
+{
+    var a=S.pop()
+    delete T[a]
+}
+```

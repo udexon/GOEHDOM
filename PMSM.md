@@ -2,4 +2,6 @@
 
 http://phos.epizy.com/pmsm/
 
-As tutorials on Forth programming language have been widely available, we will not reiterate here. Rather, we shall focus on ....
+As tutorials on Forth programming language have been widely available, we will not reiterate here. Rather, we shall focus on novel implementations of Phos Multitiered Stack Machine.
+
+

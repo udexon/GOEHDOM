@@ -11,6 +11,8 @@ Although the Forth programming language has been implemented in many host Progra
 
 We would like to introduce the term "homoiconic transformation" to refer to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA. 
 
+The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
+
 https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
 
 :: put link at critical locations for details and coding examples
@@ -25,15 +27,19 @@ Based on the sample code which we have made available, we believe it will only t
 
 The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
 
-The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
-
-GOEHDOM, human vs. machine maintaining free software repositories. 
-
-
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 
+An RPN operator is homoiconic as it can become an operand of another RPN operator.
 
+While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
+
+
+:: notes (use this tag to separate edited text and unedited notes)
+
+The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
+
+GOEHDOM, human vs. machine maintaining free software repositories. 
 
 Homoiconic transformation: transform non homoiconic code into homoiconic form. 
 
@@ -45,11 +51,11 @@ Homoiconic transformation = Shunting Yard Algorithm + Inverse
 
 https://github.com/udexon/ISYA/blob/master/README.md
 
-An RPN operator is homoiconic as it can become an operand of another RPN operator.
-
-While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
 
+#### fundamental graph operations in PMSM vs. GS3 
+
+:: temporary section heading
 
 https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
 

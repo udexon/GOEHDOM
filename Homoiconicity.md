@@ -31,6 +31,7 @@ Based on the sample code which we have made available, we believe it will only t
 The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
 
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
+
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 
 An RPN operator is homoiconic as it can become an operand of another RPN operator.
@@ -38,7 +39,7 @@ An RPN operator is homoiconic as it can become an operand of another RPN operato
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
 
-#### Human level artificial intelligence is type III graph search (GS3)
+#### Human level artificial intelligence is type III graph search (GS3)
 
 Homoiconic Graph Search as Model of Human Level Artificial Intelligence
 

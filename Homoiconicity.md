@@ -57,6 +57,12 @@ We would like to present our conjecture that: Human level artificial intelligenc
 - Type II Graph search (GS2): search involving predefined functions written by programmers, map, inverse kinematics, chess.
 - Type III Graph search (GS3): homoiconic composite functions. Target functions can be composed from existing functions. 
 
+Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
+
+- Homoiconic Graph Theory
+- Homoiconic Graph Machine
+- Homoiconic Graph Search
+
 
 Now it is possible to compare and analyze function composition in Phos vs. other programming languages. Previously not possible. This is one of the most crucial benefits of Phos.
 

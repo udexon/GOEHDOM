@@ -5,23 +5,29 @@
 
 #### Homoiconic Transformation
 
-https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+Homoiconic transformation: transform non homoiconic code into homoiconic form. 
 
-Screenshot illustrates fundamental operations of tree / Graph Theory ...
+:: Focus on this as theoretical basis of code transformation to convince readers. 
 
-Homoiconic transformation: transform non homoiconic code into homoiconic form. Focus on this as theoretical basis of code transformation to convince readers. Theoretical issues can be addressed using homoiconic code build up itself!!
+Theoretical issues can be addressed using homoiconic code build up itself!!
 
 Homoiconic transformation = Shunting Yard Algorithm + Inverse
+
+https://github.com/udexon/ISYA/blob/master/README.md
 
 An RPN operator is homoiconic as it can become an operand of another RPN operator.
 
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
-https://github.com/udexon/ISYA/blob/master/README.md
 
+
+https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+
+Screenshot illustrates fundamental operations of tree / Graph Theory ...
 
 
 #### Main Contribution
+
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 

@@ -11,6 +11,21 @@ Although the Forth programming language has been implemented in many host Progra
 
 We would like to introduce the term "homoiconic transformation" to refer to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA. 
 
+One of the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
+
+:: add links
+
+- C, C++, Java, Kotlin, JavaScript, PHP, Python, Rust, Haskell, Forth, LISP, Go
+
+Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Multitiered Stack Machine, to a programming language of his (her) choice. 
+
+The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
+
+The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
+
+GOEHDOM, human vs. machine maintaining free software repositories. 
+
+
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 

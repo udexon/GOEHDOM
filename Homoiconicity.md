@@ -49,13 +49,14 @@ Homoiconic Graph Machine HGM??
 
 :: Emphasize word "graph"
 
-Our conjecture: Human level artificial intelligence is type III search.
+The example in .... illustrate several fundamental operations of graph theory, specifically, using reverse Polish notation, which itself can be represented by a tree, to construct a tree.  This is fundamental property of RPN being homoiconic.
 
-Type I search: simple look up.
+We would like to present our conjecture that: Human level artificial intelligence is type III graph search (GS3).
 
-Type II search: predefined functions, map, inverse kinematics, chess.
+- Type I Graph search (GS1): simple look up.
+- Type II Graph search (GS2): search involving predefined functions written by programmers, map, inverse kinematics, chess.
+- Type III Graph search (GS3): homoiconic composite functions. Target functions can be composed from existing functions. 
 
-Type III search: homoiconic composite functions
 
 Now it is possible to compare and analyze function composition in Phos vs. other programming languages. Previously not possible. This is one of the most crucial benefits of Phos.
 

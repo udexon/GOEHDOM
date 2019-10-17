@@ -38,7 +38,37 @@ An RPN operator is homoiconic as it can become an operand of another RPN operato
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
 
+#### Human level artificial intelligence is type III graph search (GS3)
+
+Homoiconic Graph Search as Model of Human Level Artificial Intelligence
+
+(HGS)
+
+Homoiconic Graph Machine HGM??
+
+:: Emphasize word "graph"
+
+Our conjecture: Human level artificial intelligence is type III search.
+
+Type I search: simple look up.
+
+Type II search: predefined functions, map, inverse kinematics, chess.
+
+Type III search: homoiconic composite functions
+
+Now it is possible to compare and analyze function composition in Phos vs. other programming languages. Previously not possible. This is one of the most crucial benefits of Phos.
+
+Discuss simple tree to type III search.
+
+https://patentscope.wipo.int/search/de/detail.jsf;jsessionid=1BDC0AAFEDCE961DF969E9DC9F63FAB2.wapp2nC?docId=US225266147&tab=PCTDESCRIPTION
+
+Patent did not mention RPN!!
+
+
+
 :: notes (use this tag to separate edited text and unedited notes)
+
+:: since unedited notes are not organized, move useful one to front, unused notes to back
 
 The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
 
@@ -69,32 +99,6 @@ Screenshot illustrates fundamental operations of tree / Graph Theory ...
 
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
-
-#### Human level artificial intelligence is type III graph search (GS3)
-
-Homoiconic Graph Search as Model of Human Level Artificial Intelligence
-
-(HGS)
-
-Homoiconic Graph Machine HGM??
-
-:: Emphasize word "graph"
-
-Our conjecture: Human level artificial intelligence is type III search.
-
-Type I search: simple look up.
-
-Type II search: predefined functions, map, inverse kinematics, chess.
-
-Type III search: homoiconic composite functions
-
-Now it is possible to compare and analyze function composition in Phos vs. other programming languages. Previously not possible. This is one of the most crucial benefits of Phos.
-
-Discuss simple tree to type III search.
-
-https://patentscope.wipo.int/search/de/detail.jsf;jsessionid=1BDC0AAFEDCE961DF969E9DC9F63FAB2.wapp2nC?docId=US225266147&tab=PCTDESCRIPTION
-
-Patent did not mention RPN!!
 
 
 

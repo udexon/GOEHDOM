@@ -11,6 +11,10 @@ Although the Forth programming language has been implemented in many host Progra
 
 We would like to introduce the term "homoiconic transformation" to refer to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA. 
 
+https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+
+:: put link at critical locations for details and coding examples
+
 One of the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
 
 :: add links

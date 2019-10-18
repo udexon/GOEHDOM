@@ -50,9 +50,9 @@ Model all programs written by human, including how human write program, as searc
 
 We would like to present our conjecture that: Human level artificial intelligence is type III graph search (GS3).
 
-- Type I Graph search (GS1): simple look up.
+- Type I Graph search (GS1): simple look up. hello world, print string: search from string buffer. database query.
 - Type II Graph search (GS2): search involving predefined functions written by programmers, map, inverse kinematics, chess.
-- Type III Graph search (GS3): homoiconic composite functions. Target functions can be composed from existing functions. 
+- Type III Graph search (GS3): homoiconic composite functions. Target functions can be composed from existing functions. make GS2 and GS1 functions as search candidates / targets.
 
 Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
 

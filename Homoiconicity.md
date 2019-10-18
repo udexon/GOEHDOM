@@ -2,6 +2,19 @@
 - Universal Derivative Homoiconicity
 - Homoiconic Graph Machine & Homoiconic Graph Search
 
+#### Introduction
+
+We implemented an inverse of the shunting yard algorithm in several high level programming languages, thus establishing the foundation of homoiconic transformation.
+
+Homoiconic transformation refers to the transformation of non-homoiconic code in high level programming language into homoiconic form, and vice versa.
+
+Specifically, we employ a form of Reverse Polish Notation based on the Forth programming language in homoiconic transformation. As the operands and operations of homoiconic transformation can both be represented as graph objects, we also refer to them as homoiconic graph. 
+
+The theory, virtual machine and search algorithms associated with homoiconic graph are called homoiconic graph theory, homoiconic graph machine and homoiconic graph search respectively.
+
+
+
+
 
 #### Homoiconic Transformation
 

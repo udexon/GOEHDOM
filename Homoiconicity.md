@@ -46,6 +46,8 @@ Homoiconic Graph Search as Model of Human Level Artificial Intelligence
 
 The example in .... illustrate several fundamental operations of graph theory, specifically, using reverse Polish notation, which itself can be represented by a tree, to construct a tree.  This is fundamental property of RPN being homoiconic.
 
+Model all programs written by human, including how human write program, as search.
+
 We would like to present our conjecture that: Human level artificial intelligence is type III graph search (GS3).
 
 - Type I Graph search (GS1): simple look up.
@@ -54,7 +56,7 @@ We would like to present our conjecture that: Human level artificial intelligenc
 
 Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
 
-GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2?) and human ability to program?
+GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2? proof: has tree manipulation functions, e.g. python sympy) and human ability to program?
 
 #### To Do: Relationship from fundamental graph operations in PMSM to GS3 
 

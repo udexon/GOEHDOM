@@ -59,6 +59,8 @@ We would like to present our conjecture that: Human level artificial intelligenc
 
 Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
 
+GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2?) and human ability to program?
+
 - Homoiconic Graph Theory
 - Homoiconic Graph Machine
 - Homoiconic Graph Search

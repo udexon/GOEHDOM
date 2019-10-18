@@ -62,6 +62,8 @@ The portability of PMSM is crucial to the viability of bootstrapping machine int
 
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 
+Huge Forth and LISP code base. LISP mathematics. previously no way to integrate and analyze. Phos can.
+
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 
 An RPN operator is homoiconic as it can become an operand of another RPN operator.

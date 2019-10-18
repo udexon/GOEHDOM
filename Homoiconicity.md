@@ -69,6 +69,8 @@ GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2? p
 
 #### To Do: Relationship from fundamental graph operations in PMSM to GS3 
 
+:: PMSM or Phos Homoiconic Graph Machine?
+
 The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
 
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
@@ -82,12 +84,9 @@ An RPN operator is homoiconic as it can become an operand of another RPN operato
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
 
-:: notes
+The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
 
-- Homoiconic Graph Theory
-- Homoiconic Graph Machine
-- Homoiconic Graph Search
-
+GOEHDOM, human vs. machine maintaining free software repositories. 
 
 Now it is possible to compare and analyze function composition in Phos vs. other programming languages. Previously not possible. This is one of the most crucial benefits of Phos.
 
@@ -97,58 +96,7 @@ https://patentscope.wipo.int/search/de/detail.jsf;jsessionid=1BDC0AAFEDCE961DF96
 
 Patent did not mention RPN!!
 
-Homoiconic Graph Search (HGS)
-
-Homoiconic Graph Machine HGM??
-
-:: Emphasize word "graph"
-
-
-
-:: notes (use this tag to separate edited text and unedited notes)
-
-:: since unedited notes are not organized, move useful one to front, unused notes to back
-
-The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
-
-GOEHDOM, human vs. machine maintaining free software repositories. 
-
-Homoiconic transformation: transform non homoiconic code into homoiconic form. 
-
-:: Focus on this as theoretical basis of code transformation to convince readers. 
-
 Theoretical issues can be addressed using homoiconic code build up itself!!
-
-Homoiconic transformation = Shunting Yard Algorithm + Inverse
-
-https://github.com/udexon/ISYA/blob/master/README.md
-
-
-
-#### fundamental graph operations in PMSM vs. GS3 
-
-:: temporary section heading
-
-https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
-
-Screenshot illustrates fundamental operations of tree / Graph Theory ...
-
-
-#### Main Contribution
-
-As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
-We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
-
-
-
-#### Universal Derivative Homoiconicity
-
-#### Homoiconic Graph Machine & Homoiconic Graph Search
-
-:: Do not write more than 5 sections per Gmail. Copy section headings to top of Gmail for reference.
-
-:: Organize old notes in Gmail
-
 
 [Phos multitiered stack machine](http://5gl.epizy.com/nsm/Phos.html) demonstrates the viability of implementing a shell to execute Phos commands within any known host programming language.
 
@@ -179,7 +127,57 @@ Graph theory, fundamental of programming, mathematics, unification of programmin
 - fundamental of graph and stack machine programming
 - Forth can provide the above, but no ecosystem to learn, hence Phos let programmers to create own ecosystem compatible with existing habits, from JavaScript to Android NDK. Cite examples.
 - to understand the concepts and motivations proposed in this project.
+
 Phos does not conflict with other ecosystems, but is the glue to integrate all ecosystems.
+
+:: notes
+
+- Homoiconic Graph Theory
+- Homoiconic Graph Machine
+- Homoiconic Graph Search
+
+Homoiconic Graph Search (HGS)
+
+Homoiconic Graph Machine HGM??
+
+:: Emphasize word "graph"
+
+:: notes (use this tag to separate edited text and unedited notes)
+
+:: since unedited notes are not organized, move useful one to front, unused notes to back
+
+Homoiconic transformation: transform non homoiconic code into homoiconic form. 
+
+:: Focus on this as theoretical basis of code transformation to convince readers. 
+
+Homoiconic transformation = Shunting Yard Algorithm + Inverse
+
+https://github.com/udexon/ISYA/blob/master/README.md
+
+
+#### fundamental graph operations in PMSM vs. GS3 
+
+:: temporary section heading
+
+https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+
+Screenshot illustrates fundamental operations of tree / Graph Theory ...
+
+
+#### Main Contribution
+
+As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
+We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
+
+
+
+#### Universal Derivative Homoiconicity
+
+#### Homoiconic Graph Machine & Homoiconic Graph Search
+
+:: Do not write more than 5 sections per Gmail. Copy section headings to top of Gmail for reference.
+
+:: Organize old notes in Gmail
 
 :: Must write to motivate others as pioneers. This is the reality I must face. Then only will readers trust me.
 

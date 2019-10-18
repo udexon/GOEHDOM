@@ -56,12 +56,6 @@ While there has been no ?? mathematical model on homoiconic transformation, HT i
 
 Homoiconic Graph Search as Model of Human Level Artificial Intelligence
 
-(HGS)
-
-Homoiconic Graph Machine HGM??
-
-:: Emphasize word "graph"
-
 The example in .... illustrate several fundamental operations of graph theory, specifically, using reverse Polish notation, which itself can be represented by a tree, to construct a tree.  This is fundamental property of RPN being homoiconic.
 
 We would like to present our conjecture that: Human level artificial intelligence is type III graph search (GS3).
@@ -86,6 +80,12 @@ Discuss simple tree to type III search.
 https://patentscope.wipo.int/search/de/detail.jsf;jsessionid=1BDC0AAFEDCE961DF969E9DC9F63FAB2.wapp2nC?docId=US225266147&tab=PCTDESCRIPTION
 
 Patent did not mention RPN!!
+
+Homoiconic Graph Search (HGS)
+
+Homoiconic Graph Machine HGM??
+
+:: Emphasize word "graph"
 
 
 

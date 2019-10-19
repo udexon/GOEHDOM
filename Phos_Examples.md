@@ -15,14 +15,18 @@ $ php phos.php 5 A l: dup: esp: 1 - A bnz: nl:
 ```
 
 ```
-~/devel/5gl/20190303/parse$ php hgm.php 'a b + c d + *' space: explode: hgm: stk: t: nl: exp3: 6 subt: 5 subt: 
+~/devel/5gl/20190303/parse$ php hgm.php 'a b + c d + *' space: explode: hgm: stk: 
+t: nl: exp3: 6 subt: 5 subt: 
 : top_edges t t2sn: cx: over: cx: 1 - i: e ix: \; 
 top_edges 
 : left_terms dup: 1 ix: 5 pick: swap: i: e i: dup: 0 i: subt: over: 1 i: subt: \; 
-\ "left edges terms" . left_terms 3 pick: 0 i: subt: \\* 1 pick: 4 pick: \\* \\+ 7 mss: s:
+\ "left edges terms" . left_terms 3 pick: 0 i: subt: 
+\\* 1 pick: 4 pick: \\* \\+ 7 mss: s:
 
-fgl_s 397 < 10 > array ( 0 => 'd c + b a + *', 1 => 'd c +', 2 => array ( 0 => array ( 'v' => 'a', ), 
-1 => array ( 'v' => 'b', ), 2 => array ( 'v' => '+', 't' => 'oa', 'e' => array ( 0 => 1, 1 => 0, ), ), 
+fgl_s 397 < 10 > array ( 0 => 'd c + b a + *', 1 => 'd c +', 
+2 => array ( 0 => array ( 'v' => 'a', ), 
+1 => array ( 'v' => 'b', ), 
+2 => array ( 'v' => '+', 't' => 'oa', 'e' => array ( 0 => 1, 1 => 0, ), ), 
 3 => array ( 'v' => 'c', ), 4 => array ( 'v' => 'd', ), 
 5 => array ( 'v' => '+', 't' => 'oa', 'e' => array ( 0 => 4, 1 => 3, ), ), 
 6 => array ( 'v' => '*', 't' => 'om', 'e' => array ( 0 => 5, 1 => 2, ), ), ), 

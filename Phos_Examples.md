@@ -1,6 +1,6 @@
 ### Phos Examples
 
-1. Loop, count 5 to 1.
+#### 1. Loop, count 5 to 1.
 
 `l:` set TOS as branch label
 
@@ -15,7 +15,7 @@ $ php phos.php 5 A l: dup: esp: 1 - A bnz: nl:
 5 4 3 2 1 
 ```
 
-2. Expanding algebraic expression in Reverse Polish Expression
+#### 2. Expanding algebraic expression in Reverse Polish Expression
 
 ```
 ~/devel/5gl/20190303/parse$ php hgm.php 'a b + c d + *' space: explode: hgm: stk: 
@@ -39,7 +39,7 @@ fgl_s 397 < 10 > array ( 0 => 'd c + b a + *', 1 => 'd c +',
 9 => 'a d c + \\* d c + b \\* \\+', )
 ```
 
-3. Download Instagram images by keywaord and make ranking table
+#### 3. Download Instagram images by keywaord and make ranking table
 
 ```
 ~/devel/5gl/igdl_2019_10$ php ajax_igdl.php vsangel dltag dlsc

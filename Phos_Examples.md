@@ -63,6 +63,18 @@ A B C 3sort: '<table>' esp: A rshv: ON ECHO bv:
 #### 5.1 Mixxx
 
 #### 5.2 Audacity
+```
+Dell XPS
+~/devel/2019/Audacity/audacity-minsrc-2.3.2/src/effects/nyquist$ ls -lt | head
+total 4092
+-rw-r--r-- 1 hongwu hongwu 3165256 Ogos 17 19:17 audacity-Nyquist.o
+-rw-r--r-- 1 hongwu hongwu  103914 Ogos 17 19:16 Nyquist.cpp
+-rw-r--r-- 1 hongwu hongwu  103898 Ogos 17 19:12 Nyquist.cpp~
+-rw-r--r-- 1 hongwu hongwu  784544 Ogos 15 22:47 audacity-LoadNyquist.o
+-rw-r--r-- 1 hongwu hongwu    9284 Apr  13  2019 Nyquist.h
+-rw-r--r-- 1 hongwu hongwu    7608 Mac  23  2019 LoadNyquist.cpp
+-rw-r--r-- 1 hongwu hongwu    1741 Mac  23  2019 LoadNyquist.h
+```
 
 #### 6. Phos Python
 

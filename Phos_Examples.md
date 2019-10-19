@@ -19,3 +19,11 @@ $ php phos.php 5 A l: dup: esp: 1 - A bnz: nl:
 
 fgl_s 397 < 10 > array ( 0 => 'd c + b a + *', 1 => 'd c +', 2 => array ( 0 => array ( 'v' => 'a', ), 1 => array ( 'v' => 'b', ), 2 => array ( 'v' => '+', 't' => 'oa', 'e' => array ( 0 => 1, 1 => 0, ), ), 3 => array ( 'v' => 'c', ), 4 => array ( 'v' => 'd', ), 5 => array ( 'v' => '+', 't' => 'oa', 'e' => array ( 0 => 4, 1 => 3, ), ), 6 => array ( 'v' => '*', 't' => 'om', 'e' => array ( 0 => 5, 1 => 2, ), ), ), 3 => 7, 4 => array ( 'v' => '*', 't' => 'om', 'e' => array ( 0 => 5, 1 => 2, ), ), 5 => array ( 0 => 5, 1 => 2, ), 6 => array ( 0 => 5, 1 => 2, ), 7 => array ( 0 => 1, 1 => 0, ), 8 => 'b', 9 => 'a d c + \\* d c + b \\* \\+', )
 ```
+
+IGDL table
+
+```
+~/devel/5gl/igdl_2019_10$ php ajax_igdl.php vsangel dltag dlsc
+
+~/devel/5gl/igdl_2019_10$ php ajax_2loop.php array: A shv: array: B shv: array: C shv: 'ig/B*.html' glob: alike_user_shortcode nl: A B C 3sort: '<table>' esp: A rshv: ON ECHO bv: '<table>' esp:  ncol > o_ig_20191018.html
+```

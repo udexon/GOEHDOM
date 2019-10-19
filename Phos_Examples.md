@@ -63,3 +63,13 @@ A B C 3sort: '<table>' esp: A rshv: ON ECHO bv:
 #### 5.1 Mixxx
 
 #### 5.2 Audacity
+
+#### 6. Phos Python
+
+#### 7. Forth in other Host Programming Languages
+
+1. C, C++
+
+2. Python
+
+3. Java, JavScript, Rust, Haskell, Go, Lisp

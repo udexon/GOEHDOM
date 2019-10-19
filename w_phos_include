@@ -1,0 +1,189 @@
+pdo/libfgl.php
+6:function fgl_sort()
+16:function fgl_gor() // gor: grep OR
+30:function fgl_gor2() // gor: grep OR
+48:function fgl_gx() // gx: grep, no pop
+54:function fgl_grep()
+61:function fgl_2sort() // A B 2sort: sort array A, B follows A
+72:function fgl_3sort() // A B C 3sort: sort array A, B+C follows A
+86:function fgl_sortn()
+96:function fgl_colon() //  push colon to stack, for explode:
+103:function fgl_l() // X l: label X, set index to $SL['X'] for bz: branch if zero and bnz:
+130:function fgl_false()
+135:function fgl_sq() // single quote
+140:function fgl_fop()
+143:function fgl_jd()
+148:function fgl_fi()
+153:function fgl_inline()
+170:function fgl_dup()
+176:function fgl_2dup()
+181:function fgl_over()
+189:function fgl_2over()
+198:function fgl_swap()
+207:function fgl_rot()
+219:function fgl_pick()
+225:function fgl_ss()
+231:function fgl_av()
+236:function fgl_intval()
+241:function fgl_ms()
+249:function fgl_estr() // empty string
+257:function fgl_msv() // string var msv: merge string to variable
+269:function fgl_ssl()
+278:function fgl_ap()
+283:function fgl_vt() // push element (TOS) to next TOS ( v = push ( down arrow ) ) ( A = pop ( up arrow ) )
+289:function fgl_pi()
+293:function fgl_showtab()
+306:function fgl_foreach()
+329:function fgl_ec()
+336:function fgl_ecx() // echo no pop
+343:function fgl_i() //  (array A) n i: returns A[n]
+356:function fgl_ix() // extract i-th element from array, no pop
+368:function fgl_ixn() // extract i-th element from array, no pop, array at ($l - $n) location on stack
+383:function fgl_akx() // array_keys, no pop
+392:function fgl_s()
+399:function fgl_sa()
+405:function fgl_sa2s() // push $SA to $S
+411:function fgl_s2sa() // push top of $S to $SA
+418:function fgl_trims()
+423:function fgl_pss()
+428:function fgl_c()
+434:function fgl_cx() // count(end($S)) no pop
+440:function fgl_inc()
+445:function fgl_apush()
+452:function fgl_p5($p, $q)
+460:function fgl_explode()
+465:function fgl_x_sp()
+470:function fgl_tostr()
+477:function fgl_showdbt()
+495:function fgl_je()
+503:function fgl_w()
+508:function fgl_showdb()
+525:function fgl_var()
+532:function fgl_va() // u v: store TOS to $V
+555:function fgl_argv_proc()
+598:function fgl_search()
+604:function fgl_slice()
+610:function fgl_es()
+643:function fgl_esx()
+687:function fgl_pwd()
+693:function fgl_CC() // control counter
+709:function fgl_x()
+800:function fgl_fp()
+806:function fgl_copy()
+815:function fgl_php() // 5gl to php bootstrap code
+1062:// function fgl_php_str($a) 
+1627:function fgl_exit()
+2027:function fgl_xs()
+2130:function fgl_user()
+2135:function fgl_dt()
+2140:function fgl_tz()
+2148:function fgl_fe()
+2153:function fgl_mkdir()
+2158:function fgl_glob()
+2163:function fgl_chdir()
+2168:function fgl_ncl()
+2174:function fgl_ncp()
+2181:function fgl_pop()
+2188:function fgl_ncg()
+
+pdo/libuui.php
+5:function fgl_nlc() // nlc: newline character, to explode long string with newline into array
+13:function fgl_commanl()
+24:function fgl_bv() // varvalue varname bv: Bash style variable ${X} varname=varvalue
+37:function fgl_fgh() // fgh: file_get_html()
+43:function fgl_sit() // object text it: set innertext
+53:function fgl_it() // object text it: get innertext
+64:function fgl_ot() // object text it: get outertext
+75:function fgl_find() // object pattern find:
+85:function fgl_children() // $e->children()
+94:function fgl_childNodes() // $e->children()
+103:function fgl_childNodesl() // $e->children(): children[] count counter index
+114:function fgl_childNodeslx() // $e->children(): children[] count counter index, no pop
+125:function fgl_childNodesn() // N_over indexOfChild -- $e->children(): children[] count counter index, over n items on stack
+207:function fgl_nn1() // $object n2 n1 n0 N nn: get node by index, depth N, one level
+224:function fgl_nn2() // $object n2 n1 n0 N nn: get node by index, depth 2
+250:function fgl_nn() // $object n2 n1 n0 N nn: get node by index, depth N
+311:function fgl_nl() // echo "\n" newline
+317:function fgl_nlsb() // echo "\n" newline, output to $SB string buffer
+325:function fgl_st() // so: list stack gettype
+335:function fgl_stv() // stv: list stack gettype var_src
+374:function fgl_gtp() // var gt: gettype( var )
+384:function fgl_gtpx() // var gtpx: gettype( var ), x=no pop
+395:function fgl_esp() // string esp: echo $str." " ; echo string followed by space
+405:function fgl_esb() // string esp: echo $str." " ; echo string followed by space, to $SB string buffer
+417:function fgl_ses() // string ess: echo " ".$str." " ; echo string, prepended followed by space
+429:function fgl_gc() // object gc: get_class object
+443:function fgl_mthd() // object method mthd: arrow object -> method
+456:function fgl_mbr() // object member mbr: arrow object -> member
+469:function fgl_mbrx() // object member mbrx: arrow object -> member, x=no pop
+
+fgl_dl_shortcode.php
+5:function fgl_dl_shortcode()
+
+libsmgdb.php
+5:function fgl_ll() // 'ls -l TOS' system()
+13:function fgl_pda() // push TOS to $DA
+19:function fgl_dap() // push $DA to TOS
+26:function fgl_fgh1() // file_get_html
+33:function fgl_psb() // push string buffer $SB to $S
+41:function fgl_jecdw()
+50:function fgl_am() // array array am -- array ; array_merge()
+58:function fgl_cdw()
+67:function fgl_gdf()
+73:function fgl_aslice()
+83:function fgl_a2cd() // array to colon definition
+90:function fgl_sc() // semicolon
+97:function fgl_apk() // array array_or_scalar key array push with key
+108:function fgl_ue() // urlencode
+115:function fgl_fgt() // file_get_contents include http
+121:function fgl_trim() // file_get_contents include http
+127:function fgl_substr() // n substr: substring
+134:function fgl_substrl() // n l substr: substring
+144:function fgl_post() // http send POST
+176:function fgl_strpos()
+
+hgm/libhgm.php
+6:function fgl_in()
+15:function fgl_toz() // convert false = 0, true = 1
+24:function fgl_nip()
+33:function fgl_strcmp()
+45:function fgl_ord() // char to ascii
+53:function fgl_t()
+61:function fgl_isnum()
+68:function fgl_tcp() // copy subtree: source target tcp:
+77:function fgl_tak() // tree array keys
+88:function fgl_tk() // tree array keys of $T['t'][$n]
+98:function fgl_tokfa()
+105:function fgl_toki()
+113:function fgl_tokl() // input is string listing types of token
+122:function fgl_toknl() // input is string listing types of token, named list: name list
+131:function fgl_tnl() // input is string listing types of token, named list: name list tnl:
+140:function fgl_tnn() // input is node, copy node to node, preserve source node name: target source tnn:
+150:function fgl_tspl() // input is node, splice. index tspl:
+164:function fgl_t2s() // copy tree to top of stack
+171:function fgl_t2sn() // copy tree named element to top of stack: name t2sn:
+178:function fgl_t2sn2() // copy tree named element 2D to top of stack: n1 n2 t2sn2:
+186:function fgl_te() // copy tree named element N level to top of stack: n1 n2 n3 ... nN N te:
+197:function fgl_tkn() // copy tree named element N level array keys to top of stack: n1 n2 n3 ... nN N te:
+223:function fgl_eval()
+232:function fgl_wte() // write to tree named element N level from top of stack: n1 n2 n3 ... nN N wte:
+246:function fgl_tnc() // count tree named element to top of stack: name tnc:
+254:function fgl_s2t() // copy top of stack to tree
+261:function fgl_s2tn() // copy top of stack to tree, named variable: tos name s2tn:
+268:function fgl_tn() // copy top of stack to tree, named variable: tos name tn:
+277:function fgl_argc()
+283:function fgl_argv()
+722:function fgl_stk() // show token stack $ST
+732:function fgl_hgm() // manage token stack $ST, parse AST
+1166:function fgl_isma() // check AST om oa
+1207:function fgl_exp() // check AST om oa
+1274:function fgl_exp3() // check AST om oa
+1382:function fgl_ast()
+1390:function fgl_subt() // get subtree
+1398:function fgl_ise() // isset edges (has edges. this node is not leaf.)	
+1410:function fgl_edges()
+1419:function fgl_exp2() // check AST om oa
+
+phos/libphos.php
+6:function fgl_itrim()
+20:function fgl_trim1()

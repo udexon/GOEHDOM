@@ -58,7 +58,7 @@ A B C 3sort: '<table>' esp: A rshv: ON ECHO bv:
 
 #### 4.3 C++
 
-#### 5 Linux C++
+#### 5. Linux C++
 
 #### 5.1 Mixxx
 

@@ -49,3 +49,17 @@ array: C shv: 'ig/B*.html' glob: alike_user_shortcode nl:
 A B C 3sort: '<table>' esp: A rshv: ON ECHO bv: 
 '<table>' esp:  ncol > o_ig_20191018.html
 ```
+
+#### 4. Android
+
+#### 4.1 Java
+
+#### 4.2 Kotlin
+
+#### 4.3 C++
+
+#### 5 Linux C++
+
+#### 5.1 Mixxx
+
+#### 5.2 Audacity

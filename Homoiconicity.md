@@ -43,9 +43,12 @@ https://github.com/udexon/GOEHDOM/blob/master/Phos_Examples.md
 - a simple loop
 - algebraic distributive law
 - download and ranking of Instagram images
-- Android:Kotlin, Java, C++
+- Android: Kotlin, Java, C++
 - Linux C++
 
+The following file illustrates Phos commands implemented in PHP:
+
+https://github.com/udexon/GOEHDOM/blob/master/w_phos_include
 
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 

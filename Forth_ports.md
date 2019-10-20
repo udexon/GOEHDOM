@@ -1,5 +1,7 @@
 #### Forth in Other Host Programming Languages
 
+Linux x86 32-bit: https://github.com/nornagon/jonesforth
+
 1. C, C++
 
 2. Python

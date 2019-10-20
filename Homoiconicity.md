@@ -55,6 +55,8 @@ https://github.com/udexon/GOEHDOM/blob/master/w_phos_include
 
 Graph theory has been employed in many areas in computer science as well as other areas in mathematics.
 
+Although homoiconicity has been regarded as one of the fundamental topics in computer programming, it has not beeen studied extensively, due to various difficulties that we ....
+
 Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
 
 Programming as graph modifying operations.

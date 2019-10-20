@@ -84,8 +84,6 @@ Programming can be modeled as graph modifying operations, specifically type III 
 
 One of primary the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
 
-:: add links
-
 - C, C++, Java, Kotlin, JavaScript, PHP, Python, Rust, Haskell, Forth, LISP, Go
 
 Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Multitiered Stack Machine, to a programming language of his (her) choice. 
@@ -95,13 +93,7 @@ Based on the sample code which we have made available, we believe it will only t
 
 #### Human level artificial intelligence is type III graph search (GS3)
 
-Programming and other human tasks ....
-
 Homoiconic Graph Search as Model of Human Level Artificial Intelligence
-
-The example in .... illustrate several fundamental operations of graph theory, specifically, using reverse Polish notation, which itself can be represented by a tree, to construct a tree.  This is fundamental property of RPN being homoiconic.
-
-We model all programs written by human, as well as the mechanisms how human write programs, as search algorithms.
 
 Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
 
@@ -109,9 +101,9 @@ GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2? p
 
 
 
-#### To Do: Relationship from fundamental graph operations in PMSM to GS3 
+#### To Do: Relationship from fundamental graph operations in Phos Smashlet to GS3 
 
-The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
+The portability of homoiconic transformation is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
 
 As we are able to represent all known code in RPN, we may attempt to build a hierarchy of code, starting from the most primitive assignment operation to the most complex numerical functions. 
 
@@ -122,10 +114,13 @@ We will be able to construct functions that compose functions using primitive fu
 An RPN operator is homoiconic as it can become an operand of another RPN operator.
 
 
+#### Link to GOEHDOM War Game Improvement
+
+
+
 #### Unification of Programming and Mathematics
 
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
-
 
 The scope of code to be examined could range from simple PHP associative array to 3D multiplayer games.
 
@@ -174,7 +169,14 @@ Graph theory, fundamental of programming, mathematics, unification of programmin
 Phos does not conflict with other ecosystems, but is the glue to integrate all ecosystems.
 
 
+#### Programming & Other Human Tasks as GS3
+
+
 #### End
+
+The example in .... illustrate several fundamental operations of graph theory, specifically, using reverse Polish notation, which itself can be represented by a tree, to construct a tree.  This is fundamental property of RPN being homoiconic.
+
+We model all programs written by human, as well as the mechanisms how human write programs, as search algorithms.
 
 :: notes
 

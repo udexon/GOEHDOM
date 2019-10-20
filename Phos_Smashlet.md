@@ -1,6 +1,8 @@
 ## Phos Smashlet
 
-http://phos.epizy.com/pmsm/
+Phos Smashlet is a non-technical name for Homoiconic Graph Machine. Smashlet stands for stack machine shell.
+
+http://phos.epizy.com/smashlet/
 
 As tutorials on Forth programming language have been widely available, we will not reiterate here. Rather, we shall focus on novel implementations of Phos Multitiered Stack Machine (PMSM).
 

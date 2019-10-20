@@ -1,6 +1,6 @@
 ## Phos Smashlet
 
-Phos Smashlet is a non-technical name for Homoiconic Graph Machine. Smashlet stands for stack machine shell.
+Phos Smashlet is a non-technical alias for Homoiconic Graph Machine. Smashlet is the abbreviation for "stack machine shell".
 
 http://phos.epizy.com/smashlet/
 

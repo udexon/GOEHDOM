@@ -1,3 +1,5 @@
+## Homoiconic Graph Theory
+
 - Homoiconic Transformation
 - Universal Derivative Homoiconicity
 - Homoiconic Graph Machine & Homoiconic Graph Search
@@ -40,6 +42,9 @@ One of the novelties of our solution is its portability, which enables it, in th
 
 Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Multitiered Stack Machine, to a programming language of his (her) choice. 
 
+https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
+
+https://github.com/udexon/GOEHDOM/blob/master/Phos_Examples.md
 
 
 #### Human level artificial intelligence is type III graph search (GS3)

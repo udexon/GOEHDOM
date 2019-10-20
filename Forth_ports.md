@@ -12,6 +12,6 @@ Rust: https://github.com/chengchangwu/rtforth
 
 Haskell: https://github.com/reinvdwoerd/forth
 
-Go, 
+Go: https://github.com/h8gi/fifth 
 
 Lisp: https://github.com/t-sin/uf

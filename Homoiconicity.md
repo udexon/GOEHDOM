@@ -60,6 +60,8 @@ Although homoiconicity has been regarded as one of the fundamental topics in com
 
 We believe with the homoiconic transformation as outlined above, we may establish a theoretical foundation for the study of homoiconicity using graph theory, hence called "homoiconic graph theory" (HGT).
 
+In homoiconic graph theory (HGT), we model a program and its constituents as graphs. 
+
 Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
 
 Programming as graph modifying operations.

@@ -4,6 +4,10 @@
 
 2. Python
 
-3. Java, JavScript, Rust, Haskell, Go, 
+3. Java, JavScript, Rust, 
+
+Haskell: https://github.com/reinvdwoerd/forth
+
+Go, 
 
 Lisp: https://github.com/t-sin/uf

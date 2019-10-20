@@ -30,6 +30,8 @@ https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
 
 :: put link at critical locations for details and coding examples
 
+:: use Smashlet? easy to remember? not theoretical? Stack machine shell.
+
 One of the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
 
 :: add links

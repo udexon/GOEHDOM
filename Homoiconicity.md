@@ -26,6 +26,8 @@ Although the Forth programming language has been implemented in many host Progra
 
 We would like to introduce the term "homoiconic transformation" to refer to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA. 
 
+#### Forth & Phos Smashlets
+
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 
 https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
@@ -34,7 +36,7 @@ https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
 
 :: use Smashlet? easy to remember? not theoretical? Stack machine shell.
 
-One of the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
+One of primary the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
 
 :: add links
 

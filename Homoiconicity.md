@@ -79,13 +79,8 @@ Human programmer is the homoiconic interface or homoiconic graph machine that pe
 
 Programming can be modeled as graph modifying operations, specifically type III graph search.
 
-The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 
-https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
-
-:: put link at critical locations for details and coding examples
-
-:: Rename PMSM to Smashlet? easy to remember? not theoretical? Stack machine shell.
+#### Portability of Homoiconic Transformation
 
 One of primary the novelties of our solution is its portability, which enables it, in theory, to be implemented in any known host programming language. We have tested it on the following programming languages: 
 
@@ -98,9 +93,9 @@ Based on the sample code which we have made available, we believe it will only t
 
 
 
-
-
 #### Human level artificial intelligence is type III graph search (GS3)
+
+Programming and other human tasks ....
 
 Homoiconic Graph Search as Model of Human Level Artificial Intelligence
 
@@ -108,28 +103,13 @@ The example in .... illustrate several fundamental operations of graph theory, s
 
 We model all programs written by human, as well as the mechanisms how human write programs, as search algorithms.
 
-We would like to present our conjecture, that: Human level artificial intelligence is type III graph search (GS3), where the categories are as follow:
-
-1. Type I Graph search (GS1): 
-- simple look up. 
-- hello world, print string: search from string buffer. 
-- database query.
-
-2. Type II Graph search (GS2): 
-- search involving predefined functions written by programmers, map, inverse kinematics, chess.
-
-3. Type III Graph search (GS3): 
-- homoiconic composite functions. 
-- Target functions can be composed from existing functions. 
-- make GS2 and GS1 functions as search candidates / targets.
-
 Armed with Homoiconic Graph Theory, converting GS1 and GS2 to homoiconic form is no longer rocket science -- but free software labour.
 
 GS3: includes computer algebra system (limited, cannot unify with GS1 and GS2? proof: has tree manipulation functions, e.g. python sympy) and human ability to program?
 
-#### To Do: Relationship from fundamental graph operations in PMSM to GS3 
 
-:: PMSM or Phos Homoiconic Graph Machine?
+
+#### To Do: Relationship from fundamental graph operations in PMSM to GS3 
 
 The portability of PMSM is crucial to the viability of bootstrapping machine intelligence, as it enables us to access code written in practically any known programming language, including assembly language of most microprocessors, using one universal script, ie. Reverse Polish Notation, and examine their relationships. 
 
@@ -140,6 +120,9 @@ Huge Forth and LISP code base. LISP mathematics. previously no way to integrate 
 We will be able to construct functions that compose functions using primitive functions, based on the homoiconic properties of RPN.
 
 An RPN operator is homoiconic as it can become an operand of another RPN operator.
+
+
+#### Unification of Programming and Mathematics
 
 While there has been no ?? mathematical model on homoiconic transformation, HT intrinsically by definition can bootstrap its own mathematical model. Use homoiconic code to build mathematical model to analyze homoiconic code.
 
@@ -189,6 +172,9 @@ Graph theory, fundamental of programming, mathematics, unification of programmin
 - to understand the concepts and motivations proposed in this project.
 
 Phos does not conflict with other ecosystems, but is the glue to integrate all ecosystems.
+
+
+#### End
 
 :: notes
 
@@ -242,3 +228,31 @@ We will be able to construct functions that compose functions using primitive fu
 :: Must write to motivate others as pioneers. This is the reality I must face. Then only will readers trust me.
 
 Say I will be happy to recruit 5 collaborators. 
+
+
+
+The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
+
+https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+
+:: put link at critical locations for details and coding examples
+
+:: Rename PMSM to Smashlet? easy to remember? not theoretical? Stack machine shell.
+
+
+We would like to present our conjecture, that: Human level artificial intelligence is type III graph search (GS3), where the categories are as follow:
+
+1. Type I Graph search (GS1): 
+- simple look up. 
+- hello world, print string: search from string buffer. 
+- database query.
+
+2. Type II Graph search (GS2): 
+- search involving predefined functions written by programmers, map, inverse kinematics, chess.
+
+3. Type III Graph search (GS3): 
+- homoiconic composite functions. 
+- Target functions can be composed from existing functions. 
+- make GS2 and GS1 functions as search candidates / targets.
+
+:: PMSM or Phos Homoiconic Graph Machine?

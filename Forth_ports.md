@@ -2,11 +2,13 @@
 
 Linux x86 32-bit: https://github.com/nornagon/jonesforth
 
-1. C, C++
+1. C, C++: https://github.com/kristopherjohnson/cxxforth
 
 2. Python: https://github.com/zehnpaard/pythonic-forth
 
-3. Java, JavScript, 
+3. Java, 
+
+JavScript: https://repl.it/languages/forth
 
 Rust: https://github.com/chengchangwu/rtforth 
 

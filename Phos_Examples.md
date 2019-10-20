@@ -76,12 +76,3 @@ total 4092
 -rw-r--r-- 1 hongwu hongwu    1741 Mac  23  2019 LoadNyquist.h
 ```
 
-#### 6. Phos Python
-
-#### 7. Forth in other Host Programming Languages
-
-1. C, C++
-
-2. Python
-
-3. Java, JavScript, Rust, Haskell, Go, Lisp

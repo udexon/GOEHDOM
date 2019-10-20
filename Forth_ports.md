@@ -4,7 +4,7 @@ Linux x86 32-bit: https://github.com/nornagon/jonesforth
 
 1. C, C++
 
-2. Python
+2. Python: https://github.com/zehnpaard/pythonic-forth
 
 3. Java, JavScript, 
 

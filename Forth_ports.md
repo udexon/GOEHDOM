@@ -1,19 +1,19 @@
-#### Forth in Other Host Programming Languages
+#### Forth Implemented in Other Host Programming Languages
 
-Linux x86 32-bit: https://github.com/nornagon/jonesforth
+1. Linux x86 32-bit: https://github.com/nornagon/jonesforth
 
-1. C, C++: https://github.com/kristopherjohnson/cxxforth
+2. C, C++: https://github.com/kristopherjohnson/cxxforth
 
-2. Python: https://github.com/zehnpaard/pythonic-forth
+3. Python: https://github.com/zehnpaard/pythonic-forth
 
-3. Java, 
+4. Java: http://linuxenvy.com/bprentice/JForth/
 
-JavScript: https://repl.it/languages/forth
+5. JavScript: https://repl.it/languages/forth
 
-Rust: https://github.com/chengchangwu/rtforth 
+6. Rust: https://github.com/chengchangwu/rtforth 
 
-Haskell: https://github.com/reinvdwoerd/forth
+7. Haskell: https://github.com/reinvdwoerd/forth
 
-Go: https://github.com/h8gi/fifth 
+8. Go: https://github.com/h8gi/fifth 
 
-Lisp: https://github.com/t-sin/uf
+9. Lisp: https://github.com/t-sin/uf

@@ -34,9 +34,17 @@ https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
 
 In most of these Forth ports, the developers did not focus on high level issues, e.g. integrating mainstream, host programming language functions, into the Forth framework, but rather, satisfied themselves with executing a partial set of Forth words (function names in Forth lingo). As such, integrating with functions of host programming languages becomes one of the main goals of Phos Smashlet:
 
-https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
+https://github.com/udexon/GOEHDOM/blob/master/Phos_Smashlet.md
+
+The examples above illustrate fundamental tree operations using Phos RPN commands. The following examples include: 
 
 https://github.com/udexon/GOEHDOM/blob/master/Phos_Examples.md
+
+- a simple loop
+- algebraic distributive law
+- download and ranking of Instagram images
+- Android:Kotlin, Java, C++
+- Linux C++
 
 
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":

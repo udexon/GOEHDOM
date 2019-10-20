@@ -26,6 +26,7 @@ Although the Forth programming language has been implemented in many host Progra
 
 We would like to introduce the term "homoiconic transformation" to refer to process of transforming non-homoiconic code into homoiconic form, involving the use DYSA and ISYA. 
 
+
 #### Forth & Phos Smashlets
 
 We have selected several Forth implementations in high level host programming languages as reference:
@@ -56,6 +57,8 @@ https://github.com/udexon/GOEHDOM/blob/master/w_phos_include
 Graph theory has been employed in many areas in computer science as well as other areas in mathematics.
 
 Although homoiconicity has been regarded as one of the fundamental topics in computer programming, it has not beeen studied extensively, due to various difficulties that we ....
+
+We believe with the homoiconic transformation as outlined above, we may establish a theoretical foundation for the study of homoiconicity using graph theory, hence called "homoiconic graph theory" (HGT).
 
 Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
 

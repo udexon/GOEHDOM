@@ -77,7 +77,7 @@ In homoiconic graph theory (HGT), we model a program and its constituents as gra
 
 Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
 
-Programming as graph modifying operations.
+Programming can be modeled as graph modifying operations, specifically type III graph search.
 
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 

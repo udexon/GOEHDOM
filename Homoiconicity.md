@@ -50,6 +50,15 @@ The following file illustrates Phos commands implemented in PHP:
 
 https://github.com/udexon/GOEHDOM/blob/master/w_phos_include
 
+
+#### Program as Graph
+
+Graph theory has been employed in many areas in computer science as well as other areas in mathematics.
+
+Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
+
+Programming as graph modifying operations.
+
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 
 https://github.com/udexon/GOEHDOM/blob/master/PMSM.md

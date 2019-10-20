@@ -28,6 +28,15 @@ We would like to introduce the term "homoiconic transformation" to refer to proc
 
 #### Forth & Phos Smashlets
 
+We have selected several Forth implementations in high level host programming languages as reference:
+
+https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
+
+In most of these Forth ports, the developers did not focus on high level issues, e.g. integrating mainstream, host programming language functions, into the Forth framework, but rather, satisfied themselves with executing a partial set of Forth words (function names in Forth lingo). As such, integrating with functions of host programming languages becomes one of the main goals of Phos Smashlet:
+
+https://github.com/udexon/GOEHDOM/blob/master/Phos_Examples.md
+
+
 The module that implements homoiconic transformation is called "Phos Multitiered Stack Machine":
 
 https://github.com/udexon/GOEHDOM/blob/master/PMSM.md
@@ -44,9 +53,9 @@ One of primary the novelties of our solution is its portability, which enables i
 
 Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Multitiered Stack Machine, to a programming language of his (her) choice. 
 
-https://github.com/udexon/GOEHDOM/blob/master/Forth_ports.md
 
-https://github.com/udexon/GOEHDOM/blob/master/Phos_Examples.md
+
+
 
 
 #### Human level artificial intelligence is type III graph search (GS3)

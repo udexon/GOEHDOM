@@ -8,7 +8,7 @@
 
 4. Java: http://linuxenvy.com/bprentice/JForth/
 
-5. JavScript: https://repl.it/languages/forth
+5. JavaScript: https://repl.it/languages/forth
 
 6. Rust: https://github.com/chengchangwu/rtforth 
 

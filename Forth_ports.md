@@ -4,7 +4,9 @@
 
 2. Python
 
-3. Java, JavScript, Rust, 
+3. Java, JavScript, 
+
+Rust: https://github.com/chengchangwu/rtforth 
 
 Haskell: https://github.com/reinvdwoerd/forth
 

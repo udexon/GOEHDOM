@@ -60,7 +60,20 @@ Although homoiconicity has been regarded as one of the fundamental topics in com
 
 We believe with the homoiconic transformation as outlined above, we may establish a theoretical foundation for the study of homoiconicity using graph theory, hence called "homoiconic graph theory" (HGT).
 
-In homoiconic graph theory (HGT), we model a program and its constituents as graphs. 
+In homoiconic graph theory (HGT), we model a program and its constituents as graphs. Using HGT, any function within a program can be transformed into its homoiconic equivalent, in the form of Reverse Polish Notaion (RPN). Crucially, an RPN expression can be readily processed by another RPN expression, by definition of its homoiconic property. As such, HGT enables the implementation of type III graph search (GS3), which is described below:
+
+1. Type I Graph search (GS1): 
+- simple look up. 
+- hello world, print string: search from string buffer. 
+- database query.
+
+2. Type II Graph search (GS2): 
+- search involving predefined functions written by programmers, map, inverse kinematics, chess.
+
+3. Type III Graph search (GS3): 
+- homoiconic composite functions. 
+- Target functions can be composed from existing functions. 
+- make GS2 and GS1 functions as search candidates / targets.
 
 Human programmer is the homoiconic interface or homoiconic graph machine that performs homoiconic transformation of code, then compose new code.
 

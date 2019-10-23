@@ -86,7 +86,7 @@ One of primary the novelties of our solution is its portability, which enables i
 
 - C, C++, Java, Kotlin, JavaScript, PHP, Python, Rust, Haskell, Forth, LISP, Go
 
-Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Multitiered Stack Machine, to a programming language of his (her) choice. 
+Based on the sample code which we have made available, we believe it will only take a competent student taking up introductory programming courses as little as one week to port our solution, called Phos Smashlet, to a programming language of his (her) choice. 
 
 
 

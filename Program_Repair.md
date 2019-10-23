@@ -1,7 +1,9 @@
 ### Program Repair using JVM
 
+In Ghanbari (2018), a byte code level automatic program repair (APR) system was created for Java virtual machine (JVM) and was able to produce geniune patches for 43 bugs in Defects4J data set, outperforming state-of-the-art APR.
+
 Practical program repair via bytecode mutation
-A Ghanbari, S Benton, L Zhang - Proceedings of the 28th ACM SIGSOFT …, 2019 - dl.acm.org
+A Ghanbari, S Benton, L Zhang - Proceedings of the 28th ACM SIGSOFT …, 2018 - dl.acm.org
 Abstract Automated Program Repair (APR) is one of the most recent advances in automated
 debugging, and can directly fix buggy programs with minimal human intervention. Although
 various advanced APR techniques (including search-based or semantic-based ones) have …

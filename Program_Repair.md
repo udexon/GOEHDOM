@@ -2,6 +2,8 @@
 
 In Ghanbari (2018), a byte code level automatic program repair (APR) system was created for Java virtual machine (JVM) and was able to produce geniune patches for 43 bugs in Defects4J data set, outperforming state-of-the-art APR.
 
+JVM is essentially a stack machine. As such, techniques used in Ghanbari and related works can be readily ported to Phos HGM.
+
 Practical program repair via bytecode mutation
 A Ghanbari, S Benton, L Zhang - Proceedings of the 28th ACM SIGSOFT …, 2018 - dl.acm.org
 Abstract Automated Program Repair (APR) is one of the most recent advances in automated

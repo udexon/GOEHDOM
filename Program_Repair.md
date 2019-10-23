@@ -32,3 +32,47 @@ Existing work for inferring program transformations usually rely on statistical 
 All 2 versions 
 
 http://luyaoren.com/wp-content/uploads/ASE19-GENPAT.pdf
+
+
+Zhang's jvm shows Phos HGM approach is correct, but granularity is large, takes large effort to reproduce, not open source?
+
+Construct existing program using Homoiconic Graph, investigate their search properties.
+
+A finished program is the search result. Reverse deconstruct it to components. Find alternative components to construct alternative programs. Try with simple programs.
+
+e.g. 2d map, can go up down left right.
+
+Program? 
+
+Start with 3d food grasp program?
+
+Get simple robotics program. Build homoiconic graph until HG can modify host program?
+
+Convert war games to homoiconic graph. 
+
+Reduce war game or robots to smallest homoiconic graph that can self modify.
+
+Minimum homoiconic graph mhg can grow like biological cells into complex organisms?
+
+Try build mhg in 2d discrete world, then expand to 3d real number world?
+
+Game of life?
+
+
+Phos HGM is open source, has theoretical basis down to one line of code. Encourage open source effort. 
+
+Jvm is stack machine. Hence compatible with RPN.
+
+Estimate effort: 5 PhD or 10 free software programmer equivalent to 1 PhD. 50 programmers 3 years. 300 programmers 6 months. ???
+
+Curve fitting, can find distance of point to curve.
+
+Get food. Hungry, is hard threshold.
+
+Men needs means or money to get food.
+
+Then defense and violence as means to secure food.
+
+Write these in war game simulation improvement.
+
+Human are capable of inventing puzzle without solution. Some software systems are like puzzles without solution. Hence can be ignored. Just need to survive. 

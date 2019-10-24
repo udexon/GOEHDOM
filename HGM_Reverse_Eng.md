@@ -10,7 +10,7 @@ We apply reverse engineering using HGM to free software repositories (FSR), such
 
 A program is a finished product by a programmer. Need to use HGM to create whole program, or just incrementally work out the incremental patches? Incremental patches are good enough first targets. Do this first.
 
-Start with the classic sort is made of swap algorithm?
+Start with the classic sort is made of swap algorithm? Phos PHP JavaScript example?
 
 :: notes
 

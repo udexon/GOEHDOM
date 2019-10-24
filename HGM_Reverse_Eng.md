@@ -8,6 +8,8 @@ In this article, we propose a homoiconic graph machine (HGM), a model based on h
 
 We apply reverse engineering using HGM to free software repositories (FSR), such as github. We also limit the search space to finished patches, as we assume that not all bugs or issues can be resolved by human programmers in finite time.
 
+A program is a finished product by a programmer. Need to use HGM to create whole program, or just incrementally work out the incremental patches? Incremental patches are good enough first targets. Do this first.
+
 :: notes
 
 HGM may not produce results in time, just like human. Need to use simulation to guarantee returning results in time, comparable to human. ie. Compare to finished commits? 

@@ -1,5 +1,11 @@
 #### Reverse Engineering the Human Mind using Homoiconic Graph Machine
 
+Reverse engineering has proven to be a very effective tool in the development of technologies. In order to apply reverse engineering to the human mind, various models have been proposed.
+
+https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/
+
+In this article, we propose a homoiconic graph machine, a model based on homoiconic graph, comprising representation of knowledge and program code using Reverse Polish Notation (RPN) expressions.
+
 Zhang's jvm shows Phos HGM approach is correct, but granularity is large, takes large effort to reproduce, not open source?
 
 Construct existing program using Homoiconic Graph, investigate their search properties.

@@ -8,6 +8,14 @@ In this article, we propose a homoiconic graph machine (HGM), a model based on h
 
 We apply reverse engineering using HGM to free software repositories (FSR), such as github. We also limit the search space to finished patches, as we assume that not all bugs or issues can be resolved by human programmers in finite time.
 
+:: notes
+
+HGM may not produce results in time, just like human. Need to use simulation to guarantee returning results in time, comparable to human. ie. Compare to finished commits? 
+
+Categorize last changes. Enough work to do. Reverse engineer. Work backwards. 
+
+diff patch files reflect changes between commits. HGM task is to produce diff patch automatically?
+
 Zhang's jvm shows Phos HGM approach is correct, but granularity is large, takes large effort to reproduce, not open source?
 
 Construct existing program using Homoiconic Graph, investigate their search properties.

@@ -4,7 +4,9 @@ Reverse engineering has proven to be a very effective tool in the development of
 
 https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/
 
-In this article, we propose a homoiconic graph machine, a model based on homoiconic graph, comprising representation of knowledge and program code using Reverse Polish Notation (RPN) expressions.
+In this article, we propose a homoiconic graph machine (HGM), a model based on homoiconic graph, comprising representation of knowledge and program code using Reverse Polish Notation (RPN) expressions.
+
+We apply reverse engineering using HGM to free software repositories (FSR), such as github. We also limit the search space to finished patches, as we assume that not all bugs or issues can be resolved by human programmers in finite time.
 
 Zhang's jvm shows Phos HGM approach is correct, but granularity is large, takes large effort to reproduce, not open source?
 

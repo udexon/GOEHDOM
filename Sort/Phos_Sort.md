@@ -6,7 +6,7 @@ Phos is a Forth like programming language using Reverse Polish Notation. It is i
 
 The example above shows a Phos PHP Smashlet script for bubble sort. 
 
-Words (a Forth jargon referring to function names) ending with colon (':') are function words, which map to functions in the host programming language. The colon suffix is a Phos convention not found in Forth, implemented for convenience as well as to distinguish from standard Forth words. Phos function words either adopt conventions in Forth or host programmin g language. Input parameters are assumed to be on the data stack.
+Words (a Forth jargon referring to function names) ending with colon (':') are function words, which map to functions in the host programming language. The colon suffix is a Phos convention not found in Forth, implemented for convenience as well as to distinguish from standard Forth words. Phos function words either adopt conventions in Forth or host programming language. Input parameters are assumed to be on the data stack.
 
 ```
 l: label, used for branch functions.

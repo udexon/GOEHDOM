@@ -9,6 +9,7 @@ The example above shows a Phos PHP Smashlet script for bubble sort.
 Words (a Forth jargon referring to function names or non-function tokens) ending with colon (':') are function words, which map to functions in the host programming language. The colon suffix is a Phos convention not found in Forth, implemented for convenience as well as to distinguish from standard Forth words. Phos function words either adopt conventions in Forth or host programming language. Input parameters are assumed to be on the data stack.
 
 ```
+s: print stack PHP var_export() format
 l: label, used for branch functions.
 bz: branch if zero
 bzk: branch forward k tokens if zero (negative k for backward branch). 
@@ -20,3 +21,12 @@ nl: new line
     return 1 to TOS if n1 <= n0 (less than or equal, 'le')
 ... n2 n1 n0 N nswap: swap N-th and (N-1)-th elements on stack
 ```
+
+
+<img src="https://github.com/udexon/GOEHDOM/blob/master/Sort/Sort_start.png" width="700" title="hover text">
+
+Input is list of numbers `1 2 3 4 5`.
+
+<img src="https://github.com/udexon/GOEHDOM/blob/master/Sort/Sort_end.png" width="700" title="hover text">
+
+Output is list of numbers `5 4 3 2 1`.

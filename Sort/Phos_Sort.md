@@ -30,3 +30,5 @@ Input is list of numbers `1 2 3 4 5`.
 <img src="https://github.com/udexon/GOEHDOM/blob/master/Sort/Sort_end.png" width="700" title="hover text">
 
 Output is list of numbers `5 4 3 2 1`.
+
+The main benefit of Phos script is to introduce Forth style RPN programming to non-Forth programmers, so that non-Forth non-homoiconic code can be transformed into homoiconic code. This is crucial to construct a search database for reverse engineering the thought process of human programmers.

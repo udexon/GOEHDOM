@@ -1,7 +1,7 @@
 php phos.php \
 1 2 3 4 5    s: \
 5 B l: B esp: dup: esp: \
-dup: A l: dup: dup: nl: \
+5 A l: dup: dup: nl: \
 4 + nle:   3 bzk:   3 + nswap: \
 nswap esp: \
 1 - A bnz: nl: \

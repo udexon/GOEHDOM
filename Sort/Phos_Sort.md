@@ -11,10 +11,12 @@ Words (a Forth jargon referring to function names or non-function tokens) ending
 ```
 l: label, used for branch functions.
 bz: branch if zero
-bzk: branch forward k tokens if zero (negative k for backward branch). Used to replace if-then-else.
+bzk: branch forward k tokens if zero (negative k for backward branch). 
+     Used to replace if-then-else.
 esp: echo with space
 dup: duplicate top of stack (TOS) item
 nl: new line
-... n2 n1 n0 N nle: compare N-th and (N-1)-th elements on stack, 1 if n1 <= n0 (less than or equal, 'le')
+... n2 n1 n0 N nle: compare N-th and (N-1)-th elements on stack, 
+    return 1 to TOS if n1 <= n0 (less than or equal, 'le')
 ... n2 n1 n0 N nswap: swap N-th and (N-1)-th elements on stack
 ```

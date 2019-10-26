@@ -17,17 +17,6 @@ As social media changes the outlook and education landscape of Muslims world wid
 
 It is this next two decades where we predict human military powers will forge collective intelligence with machines, more or less preserving the current factions based on religions and ethnicity.
 
-2. New type of class struggle
-
-Current religious factions will be at war. 
-
-White Christians, 
-
-Islam,
-
-Coloured Chinese plus Indian plus coloured Christians. 
-
-Muslims have no technology advantage. Will be sacrificed. 20 years genocide. Suppprt murtads. Chinese and Christian divide the spoils. New forms of liberal Muslims?
 
 
 #### New Type of Class Struggle
@@ -50,6 +39,8 @@ We have already passed the techical threshold for the above to happen. What are 
 
 World war may accelerate the above as human loss of lives may necessitate robot deployment for reconstruction. 
 
+
+#### ??? (undecided heading)
 
 Defending Humanity with Good Robots 
 
@@ -155,3 +146,15 @@ Human collective intelligence. Alone cannot do much. HGM can model collective in
 An uneducated human dish washer may have special talents in gambling or stock market.
 
 Collective, not individual achievements or human civilization.
+
+2. New type of class struggle
+
+Current religious factions will be at war. 
+
+White Christians, 
+
+Islam,
+
+Coloured Chinese plus Indian plus coloured Christians. 
+
+Muslims have no technology advantage. Will be sacrificed. 20 years genocide. Suppprt murtads. Chinese and Christian divide the spoils. New forms of liberal Muslims?

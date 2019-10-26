@@ -1,4 +1,4 @@
-### A Marxist interpretation of Technological Singularity and Collective Intelligence
+### A Marxist Interpretation of Technological Singularity and Collective Intelligence
 
 Disproving Technological Singularity using Homoiconic Graph Collective Intelligence
 

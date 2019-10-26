@@ -1,7 +1,7 @@
 ### A Marxist Interpretation of Technological Singularity and Collective Intelligence
 
 - Muslims as Primary Victims of Technological Singularity
--  How Homoiconic Graph Theory leads to Collective Intelligence?
+- How Homoiconic Graph Theory leads to Collective Intelligence?
 - New Type of Class Struggle
 - Introduction ??
 - Theoretical Basis for Technological Singularity
@@ -36,6 +36,29 @@ It is this next two decades where we predict human military powers will forge co
 Compare conventional TS theory -- how machines make decisions against humanity? No formal theories. 
 
 Conventional TS papers do not have measurable or verifiable metrics over time. Most arguments jump magically to "machine intelligence exceeding human". 
+
+
+#### Theoretical Basis for Technological Singularity
+
+While TS has been promoted wildly, rarely has its theoretical basis been examined, to prove it or otherwise. 
+
+We propose that proponents of TS somehow assume a computer system can be operated in isolation from human support, and yet, overwhelms human beings militarily. 
+
+We may call the alternative model to TS collective intelligence (CI), a concept that has many parallels in Asian cultures. While CI is not new, modeling CI using HGT is, hence Homoiconic Graph Collective Intelligence (HGCI).
+
+HGCI postulates that an individual human being acquires knowledge from external sources much like a computer program calling external function libraries. Formally, a computer program may undergo homoiconic transformation to become a homoiconic graph. Homoiconic graph can be used to model the human mind as well as a computer program. 
+
+Although programmers appear to be adopting the same manner in managing function libraries since the Fortran era of 1950s, we believe HGT is a novel attempt that can model this behavior satisfactorily, as well as modeling mechanisms of how human manages knowledge in general. 
+
+To illustrate the parallels in managing function libraries and human knowledge, consider the following:
+
+A. Programmers spend countless hours writing library functions. The author of an end user program simply calls these library functions without having to understand the intricacies of developing them.
+
+B. One out of millions of human beings becomes a scientist who discovers breakthrough theories or experiments once or several times in his whole life, using resources of many people and organizations, knowledge of decades or centuries. 
+
+C. In terms of absolute economic output, what can be classified as "artificial intelligence" may not have exceeded 0.1% today. It may not exceed 1% in 10 year's time. Strictly, advocates of technological singularity should quantify number of computer systems that can be qualified as adversarial human level artificial intelligence (AHLAI), in order to measure the timeline in which AHLAI overtakes human beings. However, such figures do not seem to exist.
+
+To address these concerns, we propose Friendly Human Level Artificial Intelligence (FHLAI) based on HGCI. 
 
 
 #### New Type of Class Struggle
@@ -80,27 +103,6 @@ Technological singularity (TS) has become a fashionable topic of debate concerni
 We propose an alternative view to disprove technological singularity, which at the same time provides a more relevant and realistic approach to applications of artificial intelligence in the real world. 
 
 
-#### Theoretical Basis for Technological Singularity
-
-While TS has been promoted wildly, rarely has its theoretical basis been examined, to prove it or otherwise. 
-
-We propose that proponents of TS somehow assume a computer system can be operated in isolation from human support, and yet, overwhelms human beings militarily. 
-
-We may call the alternative model to TS collective intelligence (CI), a concept that has many parallels in Asian cultures. While CI is not new, modeling CI using HGT is, hence Homoiconic Graph Collective Intelligence (HGCI).
-
-HGCI postulates that an individual human being acquires knowledge from external sources much like a computer program calling external function libraries. Formally, a computer program may undergo homoiconic transformation to become a homoiconic graph. Homoiconic graph can be used to model the human mind as well as a computer program. 
-
-Although programmers appear to be adopting the same manner in managing function libraries since the Fortran era of 1950s, we believe HGT is a novel attempt that can model this behavior satisfactorily, as well as modeling mechanisms of how human manages knowledge in general. 
-
-To illustrate the parallels in managing function libraries and human knowledge, consider the following:
-
-A. Programmers spend countless hours writing library functions. The author of an end user program simply calls these library functions without having to understand the intricacies of developing them.
-
-B. One out of millions of human beings becomes a scientist who discovers breakthrough theories or experiments once or several times in his whole life, using resources of many people and organizations, knowledge of decades or centuries. 
-
-C. In terms of absolute economic output, what can be classified as "artificial intelligence" may not have exceeded 0.1% today. It may not exceed 1% in 10 year's time. Strictly, advocates of technological singularity should quantify number of computer systems that can be qualified as adversarial human level artificial intelligence (AHLAI), in order to measure the timeline in which AHLAI overtakes human beings. However, such figures do not seem to exist.
-
-To address these concerns, we propose Friendly Human Level Artificial Intelligence (FHLAI) based on HGCI. 
 
 
 

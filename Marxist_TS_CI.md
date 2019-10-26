@@ -1,5 +1,11 @@
 ### A Marxist Interpretation of Technological Singularity and Collective Intelligence
 
+- Muslims as Primary Victims of Technological Singularity
+-  How Homoiconic Graph Theory leads to Collective Intelligence?
+- New Type of Class Struggle
+- Introduction ??
+- Theoretical Basis for Technological Singularity
+
 While Marxist class struggle has fallen out of fashion in the West, perhaps due to successfully social engineering or media manipulation, it is now regaining audience in the world's stage due to China's emergence. Class struggle may better explains the transition of society as FHLAI gains prominence. 
 
 We employ Marxist class struggle to interpret technological singularity, by considering the possibility of "collective intelligence" made of human and machine intelligence, instead of man vs. machine as with conventional interpretation of technological singularity.
@@ -16,6 +22,7 @@ As of 2019, no Islamic country seems to have absolute military autonomy, based o
 As social media changes the outlook and education landscape of Muslims world wide, new classes of liberal Muslims or ex-Muslims are emerging. However, the growth of such classes may not be fast enough to catch up with a possible World War III (WW3) within two decades, in which Muslims might become the primary victims.
 
 It is this next two decades where we predict human military powers will forge collective intelligence with machines, more or less preserving the current factions based on religions and ethnicity.
+
 
 
 ####  How Homoiconic Graph Theory leads to Collective Intelligence?
@@ -57,6 +64,7 @@ HGM completes TS already? Predicts machine supremacy without composition ability
 1. Man vs. machine is conventional TS model.
 
 HGM and current economic output of MCAI predict machine intelligence need human to form HGCI, not man vs. machine.
+
 
 
 #### Introduction ??

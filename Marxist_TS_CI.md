@@ -126,6 +126,9 @@ Firstly, We would like to distinguish hard artificial intelligence (HAI) from so
 
 Although some readers may find our nomenclature bewildering, we hope they become clear as we describe our models.
 
+
+#### FHLAI and AHLAI
+
 Most of the artificial intelligence code that we employ today in computer systems are MCAI. Theoretically, it is impossible for MCAI to become AHLAI. 
 
 Nevertheless, FHLAI and MPAI become relevant in outer space exploration and simulation or in environments inaccessible to human beings, such as underground or undersea. As online gaming grows to be a trillion dollars industry, it becomes commercially viable if a fraction of the resources can be diverted to simulation of inhabitable environments (SIMIE). 
@@ -149,7 +152,7 @@ Model this with HGT.
 
 
 
-#### FHLAI and AHLAI
+
 
 #### Bubble Sort, Map Search and Homoiconic Graph Search
 

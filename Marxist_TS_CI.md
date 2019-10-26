@@ -15,6 +15,8 @@ As of 2019, no Islamic country seems to have absolute military autonomy, based o
 
 As social media changes the outlook and education landscape of Muslims world wide, new classes of liberal Muslims or ex-Muslims are emerging. However, the growth of such classes may not be fast enough to catch up with a possible World War III (WW3) within two decades, in which Muslims might become the primary victims.
 
+It is this next two decades where we predict human military powers will forge collective intelligence with machines, more or less preserving the current factions based on religions and ethnicity.
+
 2. New type of class struggle
 
 Current religious factions will be at war. 

@@ -18,6 +18,12 @@ As social media changes the outlook and education landscape of Muslims world wid
 It is this next two decades where we predict human military powers will forge collective intelligence with machines, more or less preserving the current factions based on religions and ethnicity.
 
 
+####  How Homoiconic Graph Theory leads to Collective Intelligence?
+
+Compare conventional TS theory -- how machines make decisions against humanity? No formal theories. 
+
+Conventional TS papers do not have measurable or verifiable metrics over time. Most arguments jump magically to "machine intelligence exceeding human". 
+
 
 #### New Type of Class Struggle
 
@@ -52,13 +58,15 @@ HGM completes TS already? Predicts machine supremacy without composition ability
 
 HGM and current economic output of MCAI predict machine intelligence need human to form HGCI, not man vs. machine.
 
-:: Disproving Technological Singularity using Homoiconic Graph Theory
 
-:: Disproving Technological Singularity using Homoiconic Graph Collective Intelligence
+#### Introduction ??
 
 Technological singularity (TS) has become a fashionable topic of debate concerning artificial intelligence  for experts as well as non experts in recent years.
 
 We propose an alternative view to disprove technological singularity, which at the same time provides a more relevant and realistic approach to applications of artificial intelligence in the real world. 
+
+
+#### Theoretical Basis for Technological Singularity
 
 While TS has been promoted wildly, rarely has its theoretical basis been examined, to prove it or otherwise. 
 
@@ -158,3 +166,8 @@ Islam,
 Coloured Chinese plus Indian plus coloured Christians. 
 
 Muslims have no technology advantage. Will be sacrificed. 20 years genocide. Suppprt murtads. Chinese and Christian divide the spoils. New forms of liberal Muslims?
+
+
+:: Disproving Technological Singularity using Homoiconic Graph Theory
+
+:: Disproving Technological Singularity using Homoiconic Graph Collective Intelligence

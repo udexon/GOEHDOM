@@ -11,6 +11,10 @@ We outline our predictions in chronological order.
 
 While we do not advocate genocide on any specific group of people, we believe it is beneficial to outline the threats, so that the target group can be aware and prepare against them.
 
+As of 2019, no Islamic country seems to have absolute military autonomy, based on nuclear and computer technologies. Friendships with Islamic countries between non-Islamic ones such as China seem to be based on neccessasity -- primarily using Islamic countries as a buffer zone for the on-going and future conflicts with Latin-Christians led by the United States of America.
+
+As social media changes the outlook and education landscape of Muslims world wide, new classes of liberal Muslims or ex-Muslims are emerging. However, the growth of such classes may not be fast enough to catch up with a possible World War III (WW3) within two decades, in which Muslims might become the primary victims.
+
 2. New type of class struggle
 
 Current religious factions will be at war. 

@@ -1,6 +1,48 @@
 ### A Marxist Interpretation of Technological Singularity and Collective Intelligence
 
-Disproving Technological Singularity using Homoiconic Graph Collective Intelligence
+While Marxist class struggle has fallen out of fashion in the West, perhaps due to successfully social engineering or media manipulation, it is now regaining audience in the world's stage due to China's emergence. Class struggle may better explains the transition of society as FHLAI gains prominence. 
+
+We employ Marxist class struggle to interpret technological singularity, by considering the possibility of "collective intelligence" made of human and machine intelligence, instead of man vs. machine as with conventional interpretation of technological singularity.
+
+We outline our predictions in chronological order.
+
+
+#### Muslims as Primary Victims of Technological Singularity
+
+While we do not advocate genocide on any specific group of people, we believe it is beneficial to outline the threats, so that the target group can be aware and prepare against them.
+
+2. New type of class struggle
+
+Current religious factions will be at war. 
+
+White Christians, 
+
+Islam,
+
+Coloured Chinese plus Indian plus coloured Christians. 
+
+Muslims have no technology advantage. Will be sacrificed. 20 years genocide. Suppprt murtads. Chinese and Christian divide the spoils. New forms of liberal Muslims?
+
+
+#### New Type of Class Struggle
+
+The most immediate and likely TS event would be: 
+
+TS1: Can MPAI turn against human inhabitants in space colonies?
+
+That would be at least 100 years away from now.
+
+TS2: Single Robocop goes rogue and harm human beings.
+
+TS3: Mining robots in isolated mining colonies on Earth go rogue.
+
+TS4: Number of robotic mining or farming colonies and Robocop grows to critical point. Human conspirators collaborate with robots for coup d'etat.
+
+Use Marxist class struggle to predict the above. Human form collective intelligence with machine to form new class and new type of class struggle.
+
+We have already passed the techical threshold for the above to happen. What are needed are just time and number of robots. May happen in 50 years.
+
+World war may accelerate the above as human loss of lives may necessitate robot deployment for reconstruction. 
 
 
 Defending Humanity with Good Robots 
@@ -13,19 +55,9 @@ HGM completes TS already? Predicts machine supremacy without composition ability
 
 HGM and current economic output of MCAI predict machine intelligence need human to form HGCI, not man vs. machine.
 
-2. New type of class struggle
-
-Current religious factions will be at war. 
-
-White Christians, 
-
-Islam,
-
-Coloured Chinese plus Indian plus coloured Christians. 
-
-Muslims have no technology advantage. Will be sacrificed. 20 years genocide. Suppprt murtads. Chinese and Christian divide the spoils. 
-
 :: Disproving Technological Singularity using Homoiconic Graph Theory
+
+:: Disproving Technological Singularity using Homoiconic Graph Collective Intelligence
 
 Technological singularity (TS) has become a fashionable topic of debate concerning artificial intelligence  for experts as well as non experts in recent years.
 
@@ -51,7 +83,7 @@ C. In terms of absolute economic output, what can be classified as "artificial i
 
 To address these concerns, we propose Friendly Human Level Artificial Intelligence (FHLAI) based on HGCI. 
 
-While Marxist class struggle has fallen out of fashion in the West, perhaps due to successfully social engineering or media manipulation, it is now regaining audience in the world's stage due to China's emergence. Class struggle may better explains the transition of society as FHLAI gains prominence. 
+
 
 In order to construct a comprehensive theory for the near future, say 50 years, of mankind, we also consider outer space exploration and simulation, as they provide realistic and practical environments for development of FHLAI and HGCI.
 
@@ -80,26 +112,6 @@ Scenario II - AHLAI capable of making independent decision to attack or murder h
 Scenario I is nothing new. Just a new type of Marxist class struggle, where human beings are the main protagonists and AHLAI being accessories.
 
 MCAI will continue to grow as MPAI needs more proof to attract investments. 
-
-#### New Type of Class Struggle
-
-The most immediate and likely TS event would be: 
-
-TS1: Can MPAI turn against human inhabitants in space colonies?
-
-That would be at least 100 years away from now.
-
-TS2: Single Robocop goes rogue and harm human beings.
-
-TS3: Mining robots in isolated mining colonies on Earth go rogue.
-
-TS4: Number of robotic mining or farming colonies and Robocop grows to critical point. Human conspirators collaborate with robots for coup d'etat.
-
-Use Marxist class struggle to predict the above. Human form collective intelligence with machine to form new class and new type of class struggle.
-
-We have already passed the techical threshold for the above to happen. What are needed are just time and number of robots. May happen in 50 years.
-
-World war may accelerate the above as human loss of lives may necessitate robot deployment for reconstruction. 
 
 
 AHLAI is excuse for evil legislation?

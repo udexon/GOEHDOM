@@ -5,6 +5,12 @@
 - New Type of Class Struggle
 - Introduction ??
 - Theoretical Basis for Technological Singularity
+- Outer Space Exploration
+- Simulation of Inhabitable Environments
+- Metaprogramming Artificial Intelligence vs. Manually Coded Artificial Intelligence
+- FHLAI and AHLAI
+- Bubble Sort, Map Search and Homoiconic Graph Search
+
 
 While Marxist class struggle has fallen out of fashion in the West, perhaps due to successfully social engineering or media manipulation, it is now regaining audience in the world's stage due to China's emergence. Class struggle may better explains the transition of society as FHLAI gains prominence. 
 
@@ -98,7 +104,15 @@ To address these concerns, we propose Friendly Human Level Artificial Intellige
 
 
 
+
+#### Outer Space Exploration
+
+#### Simulation of Inhabitable Environments
+
 In order to construct a comprehensive theory for the near future, say 50 years, of mankind, we also consider outer space exploration and simulation, as they provide realistic and practical environments for development of FHLAI and HGCI.
+
+
+#### Metaprogramming Artificial Intelligence vs. Manually Coded Artificial Intelligence
 
 metaprogramming artificial intelligence (MPAI)
 
@@ -131,6 +145,13 @@ AHLAI is excuse for evil legislation?
 
 Model this with HGT.
 
+
+
+
+
+#### FHLAI and AHLAI
+
+#### Bubble Sort, Map Search and Homoiconic Graph Search
 
 Compare bubble sort to map search?
 

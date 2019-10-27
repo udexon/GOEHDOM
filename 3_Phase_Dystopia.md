@@ -22,9 +22,11 @@ While US-China trade tension may continue to occupy headlines for the years to c
 
 - Bourgeois will kill proletariat by war or controlled genocide, to acquire land, mines, resources on land and sea. 
 
-- Finally, human proletariat  are extinguished. Then bourgeois human and robot class war begins. They may improvise or invent human-robot religions, for ease of motivating voters (politics) and mobilization. 
+- Finally, human proletariat  are extinguished. Then bourgeois human and robot class war begins. They may improvise or invent human-robot religions (political ideologies), for ease of motivating voters (politics) and mobilization. 
 
-- Populous cities first. 
+
 
 
 :: Android and DJI drone Population;  only advantageous before;
+
+- Populous cities first. 

@@ -24,7 +24,7 @@ While US-China trade tension may continue to occupy headlines for the years to c
 
 - Finally, human proletariat  are extinguished. Then bourgeois human and robot class war begins. They may improvise or invent human-robot religions (political ideologies), for ease of motivating voters (politics) and mobilization. 
 
-
+If you are a member of the proletariat, resistance may be futile. The struggle will be over if you choose to die naturally. Of course, there may exist technologies where you can live much longer. But then, there may be religions or political ideologies which prevent you from making the choice.
 
 
 :: Android and DJI drone Population;  only advantageous before;

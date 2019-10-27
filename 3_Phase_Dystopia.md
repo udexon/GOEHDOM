@@ -8,9 +8,17 @@ Before the rise of China, Japan was the role model for developing countries. How
 
 While US-China trade tension may continue to occupy headlines for the years to come, we would like to draw the following trends which we believe would eventually lead to technological singularity:
 
-- Urbanization drives population away from rural areas. Mines and farms and fishery becomes completely robotics. Police too. 
+- Urbanization drives population away from rural areas. Mines and farms and fishery becomes completely robotics. 
 
-- Populous cities first. Depopulate developing countries, by slow death low birth, or war. China India Europe America. Japan inhabitable due to disasters and Chinese migration. 
+- More and more labourious jobs in cities will be taken over by robots -- cleaners, police, waiters etc. 
+
+- Developing countries will be depopulated, by slow death, low birth, war or planned diseases. 
+
+- Only countries with absolute military autonomy like China, India, Europe and America will survive. 
+
+- Japan may become inhabitable due to natural or indsutrial disasters like that of Fukushima. At the same time, Chinese migration may turn Japan into a vassal state of China. 
+
+- Populous cities first. 
 
 - Bourgeois control robots. Proletariat live by manual labor. Bourgeois kill proletariat by war or controlled genocide, to get land, mines, resources on land and sea. 
 

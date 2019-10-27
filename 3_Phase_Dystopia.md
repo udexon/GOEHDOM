@@ -6,15 +6,16 @@ Prior to the age of Huawei and DJI, population growth is essential to sustain mi
 
 Before the rise of China, Japan was the role model for developing countries. However, it has become a victim of its own success as America basically pulled the plug to stop Japan from overtaking it. China is facing such pre-emptive strike from America now. We believe China has a much larger population and people with better mindset to withstand similar attacks.
 
+While US-China trade tension may continue to occupy headlines for the years to come, we would like to draw the following trends which we believe would eventually lead to technological singularity:
+
+- Urbanization drives population away from rural areas. Mines and farms and fishery becomes completely robotics. Police too. 
+
+- Populous cities first. Depopulate developing countries, by slow death low birth, or war. China India Europe America. Japan inhabitable due to disasters and Chinese migration. 
+
+- Bourgeois control robots. Proletariat live by manual labor. Bourgeois kill proletariat by war or controlled genocide, to get land, mines, resources on land and sea. 
+
+- Finally, proletariat human are extinguished. Then bourgeois human and robot class war begin , after they invent human robot religions, for ease of motivating and mobilization. 
+
+
+
 :: Android and DJI drone Population;  only advantageous before;
-
-Urbanization drives population away from rural areas. Mines and farms and fishery becomes completely robotics. Police too. 
-
-Populous cities first. Depopulate developing countries, by slow death low birth, or war. China India Europe America. Japan inhabitable due to disasters and Chinese migration. 
-
-Bourgeois control robots. Proletariat live by manual labor. Bourgeois kill proletariat by war or controlled genocide, to get land, mines, resources on land and sea. 
-
-Finally, proletariat human are extinguished. Then bourgeois human and robot class war begin , after they invent human robot religions, for ease of motivating and mobilization. 
-
-
-

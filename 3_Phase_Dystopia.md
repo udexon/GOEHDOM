@@ -26,6 +26,8 @@ While US-China trade tension may continue to occupy headlines for the years to c
 
 If you are a member of the proletariat, resistance may be futile. The struggle will be over if you choose to die naturally. Of course, there may exist technologies where you can live much longer. But then, there may be religions or political ideologies which prevent you from making the choice.
 
+In the end of the day, proletariat may have to use the oldest trick in the bag -- marry into the bourgeois, or use whatever other methods to climb the social ladder.
+
 
 :: Android and DJI drone Population;  only advantageous before;
 

@@ -4,6 +4,8 @@ We have just entered the first decade of zero advantage from population growth, 
 
 Prior to the age of Huawei and DJI, population growth is essential to sustain military strength and economic development. 
 
+Before the rise of China, Japan was the role model for developing countries. However, it has become a victim of its own success as America basically pulled the plug to stop Japan from overtaking it. China is facing such pre-emptive strike from America now. We believe China has a much larger population and people with better mindset to withstand similar attacks.
+
 :: Android and DJI drone Population;  only advantageous before;
 
 Urbanization drives population away from rural areas. Mines and farms and fishery becomes completely robotics. Police too. 

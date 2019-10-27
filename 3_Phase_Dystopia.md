@@ -18,12 +18,13 @@ While US-China trade tension may continue to occupy headlines for the years to c
 
 - Japan may become inhabitable due to natural or indsutrial disasters like that of Fukushima. At the same time, Chinese migration may turn Japan into a vassal state of China. 
 
+- The Bourgeois class will control robots. The proletariats will have to live by manual labor, or with aid from low quality or recycled robots. 
+
+- Bourgeois will kill proletariat by war or controlled genocide, to acquire land, mines, resources on land and sea. 
+
+- Finally, human proletariat  are extinguished. Then bourgeois human and robot class war begins. They may improvise or invent human-robot religions, for ease of motivating voters (politics) and mobilization. 
+
 - Populous cities first. 
-
-- Bourgeois control robots. Proletariat live by manual labor. Bourgeois kill proletariat by war or controlled genocide, to get land, mines, resources on land and sea. 
-
-- Finally, proletariat human are extinguished. Then bourgeois human and robot class war begin , after they invent human robot religions, for ease of motivating and mobilization. 
-
 
 
 :: Android and DJI drone Population;  only advantageous before;

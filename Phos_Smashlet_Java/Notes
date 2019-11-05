@@ -1,0 +1,2 @@
+javac -cp '.:java-curl-1.2.2.2.jar:gson-2.8.6.jar:jsoup-1.12.1.jar' phos.java
+java -cp '.:java-curl-1.2.2.2.jar:gson-2.8.6.jar:jsoup-1.12.1.jar' phos beijing dltag dlsc

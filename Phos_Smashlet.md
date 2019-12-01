@@ -4,7 +4,7 @@ Phos Smashlet is a non-technical alias for Homoiconic Graph Machine. Smashlet is
 
 http://phos.epizy.com/smashlet/
 
-- _Phos Smashlet takes a space delimited string, pushes non-function tokens on to the stack, and execute functions in the host programming language (in this case, Java) mapped by fuction words (tokens)._
+- _Phos Smashlet takes a space delimited string, pushes non-function tokens on to the stack, and execute functions in the host programming language mapped by fuction words (tokens)._
 
 The previous sentence basically summarizes the operations of a stack machine shell (smashlet). Due to its simplicity, it can be implemented in all known programming languages. We have successfully implemented Phos Smashlet in PHP, JavaScript and Java.
 
